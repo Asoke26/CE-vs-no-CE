@@ -97,4 +97,4 @@ join_collapse_limit = 1	(default 8, to disable join reordering)
 max_parallel_workers_per_gather = 0-5 (default 2)
 max_parallel_workers = 0-5 (default 8)
 ```
-The last two variables were only adjusted during thread experiments. For other experiments, we kept the default values. The modified version of the `postgresql.conf` file can be found [here](https://github.com/Asoke26/CE-vs-no-CE/blob/main/scripts/postgresql.conf).
+The last two variables were only adjusted during thread experiments. For other experiments, we kept the default values. The modified version of the `postgresql.conf` file can be found in scripts folder.
