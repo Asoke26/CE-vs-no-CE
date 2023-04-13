@@ -19,18 +19,21 @@ We provide python scripts to replicate -
     a) Indexed/ non-indexed.\
     b) Join operator selection.\
     c) Estimate selection.\
-    d) Number of threads. \
+    d) Number of threads.
     
-usages of this scripts can be found here [attach link]
+usages of this scripts can be found here [[1](https://github.com/Asoke26/CE-vs-no-CE/tree/main/scripts)]
 
 ## 3. Dataset and Queries
 ### 3.1 Internet Movie Data Base (IMDB)
-The dataset that was used is Internet Movie Data Base (IMDB). The original data is publicly available (ftp://ftp.fu-berlin.de/pub/misc/movies/database/) in txt files, and open-source imdbpy package was used to transform txt files to CSV files. This 3.6GB snapshot is from May 2013. The dataset includes 21 CSV files i.e., 21 relations in total. 
+We used the Internet Movie Data Base (IMDB) dataset. The original data is publicly available in txt files (ftp://ftp.fu-berlin.de/pub/misc/movies/database/), and we utilized the open-source imdbpy package to convert the txt files to CSV files. The 3.6GB snapshot is from May 2013, and the dataset contains 21 CSV files, i.e., 21 relations in total.
+
+
 ### 3.2  Join Order Benchmark (JOB)
-We used Join Order Benchmark (JOB) queries for our experiments. JOB consists of 113 queries in total, including 33 query families with equijoins, and each family's queries differ only in selection predicates. Join sizes 2-17, join predicates 4-28, and tables 2-17.
+Our experiments used Join Order Benchmark (JOB) queries. JOB includes 113 queries in total, comprising 33 query families with equijoins. The queries within each family differ only in selection predicates. The join sizes range from 2 to 17, join predicates from 4 to 28, and tables from 2 to 17.
 
 ## 4. PostgreSQL
-We use a modified version of PostgreSQL 14.2 which allows injecting estimates for subqueries during query runtime [[1](https://github.com/waltercai/pqo-opensource)]. We did below changes to optimize PostgreSQL performance. \
+We employed a modified version of PostgreSQL 14.2 that allows injecting estimates for subqueries during query runtime [[2](https://github.com/waltercai/pqo-opensource)]. To optimize PostgreSQL performance, we made the following changes:
+
 ```
 shared_buffers = 128GB
 work_mem = 128GB
@@ -42,4 +45,4 @@ join_collapse_limit = 1	(default 8, to disable join reordering)
 max_parallel_workers_per_gather = 0-5 (default 2)
 max_parallel_workers = 0-5 (default 8)
 ```
-Last two variables only during thread experiements, for other experiments we kept values to default. Modified version of .conf file can be found in `scripts` folder.
+The last two variables were only adjusted during thread experiments. For other experiments, we kept the default values. The modified version of the `postgresql.conf` file can be found [here](https://github.com/Asoke26/CE-vs-no-CE/blob/main/scripts/postgresql.conf).
