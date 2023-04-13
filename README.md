@@ -9,7 +9,33 @@ Experimental was conducted in the following environment:
 - Docker v20.10.12 .
 - RStudio 2022.12.0 .
 
-## 2. Scripts
+
+## 2. Dataset and Queries
+### 2.1 Internet Movie Data Base (IMDB)
+We used the Internet Movie Data Base (IMDB) dataset. The original data is publicly available in txt files (ftp://ftp.fu-berlin.de/pub/misc/movies/database/), and we utilized the open-source imdbpy package to convert the txt files to CSV files. The 3.6GB snapshot is from May 2013, and the dataset contains 21 CSV files, i.e., 21 relations in total.
+
+
+### 2.2  Join Order Benchmark (JOB)
+Our experiments used Join Order Benchmark (JOB) queries. JOB includes 113 queries in total, comprising 33 query families with equijoins. The queries within each family differ only in selection predicates. The join sizes range from 2 to 17, join predicates from 4 to 28, and tables from 2 to 17.
+
+## 3. PostgreSQL
+We employed a modified version of PostgreSQL 14.2 that allows injecting estimates for subqueries during query runtime [[2](https://github.com/waltercai/pqo-opensource)]. To optimize PostgreSQL performance, we made the following changes:
+
+```
+shared_buffers = 128GB
+work_mem = 128GB
+max_wal_size = 128GB
+effective_cache_size = 128GB
+geqo_threshold = 18
+from_collapse_limit = 1 (default 8, to disable subquery reordering)
+join_collapse_limit = 1	(default 8, to disable join reordering)
+max_parallel_workers_per_gather = 0-5 (default 2)
+max_parallel_workers = 0-5 (default 8)
+```
+The last two variables were only adjusted during thread experiments. For other experiments, we kept the default values. The modified version of the `postgresql.conf` file can be found in scripts folder.
+
+
+## 4. Scripts
 We provide python scripts to replicate - 
 1. $Simpli^2$ join ordering algorithm.
 2. Scripts for generating query from join order.
@@ -22,7 +48,7 @@ We provide python scripts to replicate -
     d) Number of threads.
     
 usages of this scripts is below
-#### 2.1. $Simpli^2$ join order and query generation
+### 4.1. $Simpli^2$ join order and query generation
 - non-indexed
 
 ```
@@ -40,7 +66,7 @@ Above two scripts will help to generate join orders for $Simpli^2$ in both non-i
 python3 sql_generator.py
 ```
 
-#### 2.2. Cost and Runtime collection
+### 4.2. Cost and Runtime collection
 
 Below script will collect cost and runtime.
 ```
@@ -72,29 +98,3 @@ def runQueriesTime(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, 
 # runtime and cost
 def runQueriesCostTime(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _estFlag, _estFolder, _db, _inFolder, _index, _threads)
 ```
-
-
-
-## 3. Dataset and Queries
-### 3.1 Internet Movie Data Base (IMDB)
-We used the Internet Movie Data Base (IMDB) dataset. The original data is publicly available in txt files (ftp://ftp.fu-berlin.de/pub/misc/movies/database/), and we utilized the open-source imdbpy package to convert the txt files to CSV files. The 3.6GB snapshot is from May 2013, and the dataset contains 21 CSV files, i.e., 21 relations in total.
-
-
-### 3.2  Join Order Benchmark (JOB)
-Our experiments used Join Order Benchmark (JOB) queries. JOB includes 113 queries in total, comprising 33 query families with equijoins. The queries within each family differ only in selection predicates. The join sizes range from 2 to 17, join predicates from 4 to 28, and tables from 2 to 17.
-
-## 4. PostgreSQL
-We employed a modified version of PostgreSQL 14.2 that allows injecting estimates for subqueries during query runtime [[2](https://github.com/waltercai/pqo-opensource)]. To optimize PostgreSQL performance, we made the following changes:
-
-```
-shared_buffers = 128GB
-work_mem = 128GB
-max_wal_size = 128GB
-effective_cache_size = 128GB
-geqo_threshold = 18
-from_collapse_limit = 1 (default 8, to disable subquery reordering)
-join_collapse_limit = 1	(default 8, to disable join reordering)
-max_parallel_workers_per_gather = 0-5 (default 2)
-max_parallel_workers = 0-5 (default 8)
-```
-The last two variables were only adjusted during thread experiments. For other experiments, we kept the default values. The modified version of the `postgresql.conf` file can be found in scripts folder.
