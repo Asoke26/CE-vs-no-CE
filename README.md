@@ -21,7 +21,7 @@ We provide python scripts to replicate -
     c) Estimate selection.\
     d) Number of threads.
     
-usages of this scripts can be found here [[1](https://github.com/Asoke26/CE-vs-no-CE/tree/main/scripts)]
+usages of this scripts can be found here [[1](https://github.com/Asoke26/CE-vs-no-CE/blob/main/scripts/README.md)]
 
 ## 3. Dataset and Queries
 ### 3.1 Internet Movie Data Base (IMDB)
