@@ -9,10 +9,10 @@ import logging as log
 
 tau = 0.2
 lamb = 2
-PATH = "/home/postgres/Simpli2-EXP-new/Queries/"
-PATH_Est = "/home/postgres/Simpli2-EXP-new/Estimates/"
-OUTPUT = "/home/postgres/Simpli2-EXP-new/cost_experiments/"
-infoFile = "/home/postgres/pqo-opensource/output/info.txt"
+PATH = "../Queries/"
+PATH_Est = "../Estimates/"
+OUTPUT = "../results/"
+infoFile = "../pqo-opensource/output/info.txt" 
 
 files = [     
          '1a','1b','1c','1d','2a','2b','2c','2d','3a','3b','3c','4a','4b','4c','5a','5b','5c','6a','6b','6c','6d','6e','6f', \
@@ -188,10 +188,10 @@ def reset_db_parameters(cursor, _fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFla
     
 
 
-def runQueriesCost(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _estFlag, _estFolder, _db, _inFolder, _index):
+def runQueriesCost(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _estFlag, _estFolder, _db, _inFolder, _index, _threads):
     connection = psycopg2.connect(host = "localhost", database = _db, user = "postgres", password = "postgres")
     cursor = connection.cursor()
-    reset_db_parameters(cursor, _fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut)
+    reset_db_parameters(cursor, _fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _threads)
     print("Estimation Flag # ", _estFlag)
     print("Estimation Folder # ", _estFolder)
     print("Database # ", _db)
@@ -355,10 +355,10 @@ def runQueriesTime(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, 
 
 
 
-def runQueriesCostTime(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _estFlag, _estFolder, _db, _inFolder, _index):
+def runQueriesCostTime(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _estFlag, _estFolder, _db, _inFolder, _index, _threads):
     connection = psycopg2.connect(host = "localhost", database = _db, user = "postgres", password = "postgres")
     cursor = connection.cursor()
-    reset_db_parameters(cursor, _fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut)
+    reset_db_parameters(cursor, _fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _threads)
     print("Estimation Flag # ", _estFlag)
     print("Estimation Folder # ", _estFolder)
     print("Database # ", _db)

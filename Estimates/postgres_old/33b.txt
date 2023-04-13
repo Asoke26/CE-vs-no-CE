@@ -1,0 +1,2456 @@
+cn1,mc1,|56410.000000|27746.000000
+cn2,mc2,|2609129.000000|2609129.000000
+it1,it2,|NO MATCH
+it1,mi_idx1,|459925.000000|12213.000000
+it2,mi_idx2,|25591.000000|5992.000000
+kt1,kt2,|NO MATCH
+kt1,t1,|90852.000000|75845.000000
+kt2,t2,|4058.000000|3668.000000
+lt,ml,|2315.000000|150.000000
+mc1,mi_idx1,|4073078.000000|6941650.000000
+mc1,ml,|148115.000000|150887.000000
+mc1,t1,|2609129.000000|2609129.000000
+mc2,mi_idx2,|1974863.000000|3405809.000000
+mc2,ml,|348413.000000|150887.000000
+mc2,t2,|100506.000000|126195.000000
+mi_idx1,ml,|62670.000000|86994.000000
+mi_idx1,t1,|1380035.000000|1380035.000000
+mi_idx2,ml,|37967.000000|42682.000000
+mi_idx2,t2,|27670.000000|32749.000000
+ml,t1,|29997.000000|29997.000000
+ml,t2,|1053.000000|1451.000000
+cn1,mc1,mi_idx1,|131515.000000|150080.000000
+cn1,mc1,ml,|14017.000000|3262.000000
+cn1,mc1,t1,|56410.000000|56410.000000
+cn2,mc2,mi_idx2,|1974863.000000|3405809.000000
+cn2,mc2,ml,|348413.000000|150887.000000
+cn2,mc2,t2,|100506.000000|126195.000000
+it1,it2,mi_idx1,|NO MATCH
+it1,it2,mi_idx2,|NO MATCH
+it1,mc1,mi_idx1,|1354883.000000|2313447.000000
+it1,mi_idx1,ml,|20890.000000|28993.000000
+it1,mi_idx1,t1,|459925.000000|459925.000000
+it2,mc2,mi_idx2,|49037.000000|128724.000000
+it2,mi_idx2,ml,|1085.000000|1613.000000
+it2,mi_idx2,t2,|1523.000000|1238.000000
+kt1,kt2,t1,|NO MATCH
+kt1,kt2,t2,|NO MATCH
+kt1,mc1,t1,|194257.000000|93761.000000
+kt1,mi_idx1,t1,|113058.000000|49593.000000
+kt1,ml,t1,|12360.000000|1078.000000
+kt2,mc2,t2,|9729.000000|4188.000000
+kt2,mi_idx2,t2,|2781.000000|1087.000000
+kt2,ml,t2,|271.000000|48.000000
+lt,mc1,ml,|10098.000000|11645.000000
+lt,mc2,ml,|9208.000000|11645.000000
+lt,mi_idx1,ml,|6192.000000|6714.000000
+lt,mi_idx2,ml,|2902.000000|3294.000000
+lt,ml,t1,|2315.000000|2315.000000
+lt,ml,t2,|37.000000|112.000000
+mc1,mi_idx1,ml,|426861.000000|256758.000000
+mc1,mi_idx1,t1,|4073078.000000|4073078.000000
+mc1,mc2,ml,|923624.000000|745026.000000
+mc1,mi_idx2,ml,|163259.000000|210751.000000
+mc1,ml,t1,|148115.000000|148115.000000
+mc1,ml,t2,|8570.000000|7164.000000
+mc2,mi_idx2,ml,|549152.000000|124491.000000
+mc2,mi_idx2,t2,|86195.000000|95518.000000
+mc2,mi_idx1,ml,|615951.000000|1010432.000000
+mc2,ml,t1,|348413.000000|348413.000000
+mc2,ml,t2,|9343.000000|16852.000000
+mi_idx1,mi_idx2,ml,|77481.000000|89172.000000
+mi_idx1,ml,t1,|62670.000000|62670.000000
+mi_idx1,ml,t2,|2235.000000|3031.000000
+mi_idx2,ml,t1,|37967.000000|37967.000000
+mi_idx2,ml,t2,|1321.000000|1836.000000
+ml,t1,t2,|1053.000000|1451.000000
+cn1,it1,mc1,mi_idx1,|43631.000000|1164.000000
+cn1,mc1,mi_idx1,ml,|39612.000000|8290.000000
+cn1,mc1,mi_idx1,t1,|131515.000000|131515.000000
+cn1,lt,mc1,ml,|511.000000|70.000000
+cn1,mc1,mc2,ml,|73695.000000|70506.000000
+cn1,mc1,mi_idx2,ml,|15653.000000|19945.000000
+cn1,mc1,ml,t1,|14017.000000|14017.000000
+cn1,mc1,ml,t2,|1012.000000|678.000000
+cn1,kt1,mc1,t1,|4615.000000|1692.000000
+cn2,it2,mc2,mi_idx2,|49037.000000|17477.000000
+cn2,mc2,mi_idx2,ml,|549152.000000|124491.000000
+cn2,mc2,mi_idx2,t2,|86195.000000|95518.000000
+cn2,lt,mc2,ml,|9208.000000|1742.000000
+cn2,mc1,mc2,ml,|923624.000000|1752536.000000
+cn2,mc2,mi_idx1,ml,|615951.000000|1010432.000000
+cn2,mc2,ml,t1,|348413.000000|348413.000000
+cn2,mc2,ml,t2,|9343.000000|16852.000000
+cn2,kt2,mc2,t2,|9729.000000|3015.000000
+it1,it2,mc1,mi_idx1,|NO MATCH
+it1,it2,mi_idx1,mi_idx2,|NO MATCH
+it1,it2,mi_idx1,ml,|NO MATCH
+it1,it2,mi_idx1,t1,|NO MATCH
+it1,it2,mc2,mi_idx2,|NO MATCH
+it1,it2,mi_idx2,ml,|NO MATCH
+it1,it2,mi_idx2,t2,|NO MATCH
+it1,mc1,mi_idx1,ml,|142287.000000|85409.000000
+it1,mc1,mi_idx1,t1,|1354883.000000|1354883.000000
+it1,lt,mi_idx1,ml,|2064.000000|104.000000
+it1,mc2,mi_idx1,ml,|205317.000000|105078.000000
+it1,mi_idx1,mi_idx2,ml,|25827.000000|29724.000000
+it1,mi_idx1,ml,t1,|20890.000000|20890.000000
+it1,mi_idx1,ml,t2,|745.000000|1010.000000
+it1,kt1,mi_idx1,t1,|37686.000000|13798.000000
+it2,mc2,mi_idx2,ml,|4537.000000|3091.000000
+it2,mc2,mi_idx2,t2,|2787.000000|2372.000000
+it2,lt,mi_idx2,ml,|34.000000|5.000000
+it2,mc1,mi_idx2,ml,|4292.000000|5458.000000
+it2,mi_idx1,mi_idx2,ml,|2451.000000|3147.000000
+it2,mi_idx2,ml,t1,|1085.000000|1085.000000
+it2,mi_idx2,ml,t2,|105.000000|52.000000
+it2,kt2,mi_idx2,t2,|288.000000|46.000000
+kt1,kt2,mc1,t1,|NO MATCH
+kt1,kt2,mi_idx1,t1,|NO MATCH
+kt1,kt2,ml,t1,|NO MATCH
+kt1,kt2,t1,t2,|NO MATCH
+kt1,kt2,mc2,t2,|NO MATCH
+kt1,kt2,mi_idx2,t2,|NO MATCH
+kt1,kt2,ml,t2,|NO MATCH
+kt1,mc1,mi_idx1,t1,|329850.000000|106037.000000
+kt1,mc1,ml,t1,|118139.000000|2305.000000
+kt1,mi_idx1,ml,t1,|34185.000000|1341.000000
+kt1,lt,ml,t1,|1454.000000|62.000000
+kt1,mc2,ml,t1,|49771.000000|62171.000000
+kt1,mi_idx2,ml,t1,|12867.000000|17587.000000
+kt1,ml,t1,t2,|642.000000|598.000000
+kt2,mc2,mi_idx2,t2,|8721.000000|2606.000000
+kt2,mc2,ml,t2,|1321.000000|115.000000
+kt2,mi_idx2,ml,t2,|358.000000|33.000000
+kt2,lt,ml,t2,|20.000000|1.000000
+kt2,mc1,ml,t2,|880.000000|1363.000000
+kt2,mi_idx1,ml,t2,|540.000000|786.000000
+kt2,ml,t1,t2,|271.000000|271.000000
+lt,mc1,mc2,ml,|51193.000000|50793.000000
+lt,mc1,mi_idx1,ml,|29022.000000|29285.000000
+lt,mc1,mi_idx2,ml,|13067.000000|14368.000000
+lt,mc1,ml,t1,|10098.000000|10098.000000
+lt,mc1,ml,t2,|181.000000|488.000000
+lt,mc2,mi_idx1,ml,|25872.000000|26704.000000
+lt,mc2,mi_idx2,ml,|12336.000000|13102.000000
+lt,mc2,ml,t1,|9208.000000|9208.000000
+lt,mc2,ml,t2,|128.000000|445.000000
+lt,mi_idx1,mi_idx2,ml,|8235.000000|8811.000000
+lt,mi_idx1,ml,t1,|6192.000000|6192.000000
+lt,mi_idx1,ml,t2,|75.000000|299.000000
+lt,mi_idx2,ml,t1,|2902.000000|2902.000000
+lt,mi_idx2,ml,t2,|50.000000|140.000000
+lt,ml,t1,t2,|37.000000|112.000000
+mc1,mc2,mi_idx1,ml,|2600844.000000|2147134.000000
+mc1,mi_idx1,mi_idx2,ml,|469074.000000|607375.000000
+mc1,mi_idx1,ml,t1,|426861.000000|426861.000000
+mc1,mi_idx1,ml,t2,|24936.000000|20646.000000
+mc1,mc2,mi_idx2,ml,|1378204.000000|1314212.000000
+mc1,mc2,ml,t1,|923624.000000|923624.000000
+mc1,mc2,ml,t2,|41820.000000|44673.000000
+mc1,mi_idx2,ml,t1,|163259.000000|163259.000000
+mc1,mi_idx2,ml,t2,|9813.000000|7896.000000
+mc1,ml,t1,t2,|8570.000000|7164.000000
+mc2,mi_idx1,mi_idx2,ml,|969720.000000|1592595.000000
+mc2,mi_idx2,ml,t1,|549152.000000|549152.000000
+mc2,mi_idx2,ml,t2,|13931.000000|26561.000000
+mc2,mi_idx1,ml,t1,|615951.000000|615951.000000
+mc2,mi_idx1,ml,t2,|14697.000000|29792.000000
+mc2,ml,t1,t2,|9343.000000|16852.000000
+mi_idx1,mi_idx2,ml,t1,|77481.000000|77481.000000
+mi_idx1,mi_idx2,ml,t2,|2616.000000|3748.000000
+mi_idx1,ml,t1,t2,|2235.000000|3031.000000
+mi_idx2,ml,t1,t2,|1321.000000|1836.000000
+cn1,it1,it2,mc1,mi_idx1,|NO MATCH
+cn1,it1,mc1,mi_idx1,ml,|13204.000000|2750.000000
+cn1,it1,mc1,mi_idx1,t1,|43631.000000|43631.000000
+cn1,lt,mc1,mi_idx1,ml,|1431.000000|198.000000
+cn1,mc1,mc2,mi_idx1,ml,|191712.000000|199250.000000
+cn1,mc1,mi_idx1,mi_idx2,ml,|43797.000000|56363.000000
+cn1,mc1,mi_idx1,ml,t1,|39612.000000|39612.000000
+cn1,mc1,mi_idx1,ml,t2,|2832.000000|1916.000000
+cn1,kt1,mc1,mi_idx1,t1,|10125.000000|3945.000000
+cn1,lt,mc1,mc2,ml,|2570.000000|2570.000000
+cn1,lt,mc1,mi_idx2,ml,|620.000000|727.000000
+cn1,lt,mc1,ml,t1,|511.000000|511.000000
+cn1,lt,mc1,ml,t2,|10.000000|25.000000
+cn1,cn2,mc1,mc2,ml,|73695.000000|73695.000000
+cn1,mc1,mc2,mi_idx2,ml,|105559.000000|104860.000000
+cn1,mc1,mc2,ml,t1,|73695.000000|73695.000000
+cn1,mc1,mc2,ml,t2,|4651.000000|3564.000000
+cn1,it2,mc1,mi_idx2,ml,|285.000000|139.000000
+cn1,mc1,mi_idx2,ml,t1,|15653.000000|15653.000000
+cn1,mc1,mi_idx2,ml,t2,|1100.000000|757.000000
+cn1,kt1,mc1,ml,t1,|12617.000000|421.000000
+cn1,mc1,ml,t1,t2,|1012.000000|678.000000
+cn1,kt2,mc1,ml,t2,|33.000000|30.000000
+cn1,kt1,kt2,mc1,t1,|NO MATCH
+cn2,it1,it2,mc2,mi_idx2,|NO MATCH
+cn2,it2,mc2,mi_idx2,ml,|4537.000000|3091.000000
+cn2,it2,mc2,mi_idx2,t2,|2787.000000|2372.000000
+cn2,lt,mc2,mi_idx2,ml,|12336.000000|2746.000000
+cn2,mc1,mc2,mi_idx2,ml,|1378204.000000|2762264.000000
+cn2,mc2,mi_idx1,mi_idx2,ml,|969720.000000|1592595.000000
+cn2,mc2,mi_idx2,ml,t1,|549152.000000|549152.000000
+cn2,mc2,mi_idx2,ml,t2,|13931.000000|26561.000000
+cn2,kt2,mc2,mi_idx2,t2,|8721.000000|2586.000000
+cn2,lt,mc1,mc2,ml,|51193.000000|46317.000000
+cn2,lt,mc2,mi_idx1,ml,|25872.000000|26704.000000
+cn2,lt,mc2,ml,t1,|9208.000000|9208.000000
+cn2,lt,mc2,ml,t2,|128.000000|445.000000
+cn2,mc1,mc2,mi_idx1,ml,|2600844.000000|2678600.000000
+cn2,mc1,mc2,ml,t1,|923624.000000|923624.000000
+cn2,mc1,mc2,ml,t2,|41820.000000|44673.000000
+cn2,it1,mc2,mi_idx1,ml,|205317.000000|5451.000000
+cn2,mc2,mi_idx1,ml,t1,|615951.000000|615951.000000
+cn2,mc2,mi_idx1,ml,t2,|14697.000000|29792.000000
+cn2,kt1,mc2,ml,t1,|49771.000000|10452.000000
+cn2,mc2,ml,t1,t2,|9343.000000|16852.000000
+cn2,kt2,mc2,ml,t2,|1321.000000|280.000000
+cn2,kt1,kt2,mc2,t2,|NO MATCH
+it1,it2,mc1,mi_idx1,mi_idx2,|NO MATCH
+it1,it2,mc1,mi_idx1,ml,|NO MATCH
+it1,it2,mc1,mi_idx1,t1,|NO MATCH
+it1,it2,mc2,mi_idx1,mi_idx2,|NO MATCH
+it1,it2,mi_idx1,mi_idx2,ml,|817.000000|10.000000
+it1,it2,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mi_idx1,ml,|NO MATCH
+it1,it2,mc2,mi_idx1,ml,|NO MATCH
+it1,it2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,mi_idx1,t1,|NO MATCH
+it1,it2,mc2,mi_idx2,ml,|NO MATCH
+it1,it2,mc2,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mi_idx2,ml,|NO MATCH
+it1,it2,mc1,mi_idx2,ml,|NO MATCH
+it1,it2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt2,mi_idx2,t2,|NO MATCH
+it1,lt,mc1,mi_idx1,ml,|9674.000000|711.000000
+it1,mc1,mc2,mi_idx1,ml,|866948.000000|715711.000000
+it1,mc1,mi_idx1,mi_idx2,ml,|156358.000000|202458.000000
+it1,mc1,mi_idx1,ml,t1,|142287.000000|142287.000000
+it1,mc1,mi_idx1,ml,t2,|8312.000000|6882.000000
+it1,kt1,mc1,mi_idx1,t1,|109950.000000|40646.000000
+it1,lt,mc2,mi_idx1,ml,|8624.000000|10382.000000
+it1,lt,mi_idx1,mi_idx2,ml,|2745.000000|2937.000000
+it1,lt,mi_idx1,ml,t1,|2064.000000|2064.000000
+it1,lt,mi_idx1,ml,t2,|25.000000|100.000000
+it1,mc2,mi_idx1,mi_idx2,ml,|323240.000000|292143.000000
+it1,mc2,mi_idx1,ml,t1,|205317.000000|205317.000000
+it1,mc2,mi_idx1,ml,t2,|4899.000000|9931.000000
+it1,mi_idx1,mi_idx2,ml,t1,|25827.000000|25827.000000
+it1,mi_idx1,mi_idx2,ml,t2,|872.000000|1249.000000
+it1,kt1,mi_idx1,ml,t1,|11395.000000|627.000000
+it1,mi_idx1,ml,t1,t2,|745.000000|1010.000000
+it1,kt2,mi_idx1,ml,t2,|180.000000|22.000000
+it1,kt1,kt2,mi_idx1,t1,|NO MATCH
+it2,lt,mc2,mi_idx2,ml,|68.000000|23.000000
+it2,mc1,mc2,mi_idx2,ml,|15340.000000|22821.000000
+it2,mc2,mi_idx1,mi_idx2,ml,|7473.000000|13158.000000
+it2,mc2,mi_idx2,ml,t1,|4537.000000|4537.000000
+it2,mc2,mi_idx2,ml,t2,|353.000000|219.000000
+it2,kt2,mc2,mi_idx2,t2,|609.000000|84.000000
+it2,lt,mc1,mi_idx2,ml,|93.000000|171.000000
+it2,lt,mi_idx1,mi_idx2,ml,|90.000000|99.000000
+it2,lt,mi_idx2,ml,t1,|34.000000|34.000000
+it2,lt,mi_idx2,ml,t2,|2.000000|2.000000
+it2,mc1,mi_idx1,mi_idx2,ml,|12345.000000|12447.000000
+it2,mc1,mi_idx2,ml,t1,|4292.000000|4292.000000
+it2,mc1,mi_idx2,ml,t2,|338.000000|208.000000
+it2,mi_idx1,mi_idx2,ml,t1,|2451.000000|2451.000000
+it2,mi_idx1,mi_idx2,ml,t2,|225.000000|119.000000
+it2,kt1,mi_idx2,ml,t1,|793.000000|33.000000
+it2,mi_idx2,ml,t1,t2,|105.000000|52.000000
+it2,kt2,mi_idx2,ml,t2,|82.000000|3.000000
+it2,kt1,kt2,mi_idx2,t2,|NO MATCH
+kt1,kt2,mc1,mi_idx1,t1,|NO MATCH
+kt1,kt2,mc1,ml,t1,|NO MATCH
+kt1,kt2,mc1,t1,t2,|NO MATCH
+kt1,kt2,mi_idx1,ml,t1,|NO MATCH
+kt1,kt2,mi_idx1,t1,t2,|NO MATCH
+kt1,kt2,lt,ml,t1,|NO MATCH
+kt1,kt2,mc2,ml,t1,|NO MATCH
+kt1,kt2,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,ml,t1,t2,|182.000000|1.000000
+kt1,kt2,mc2,t1,t2,|NO MATCH
+kt1,kt2,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,mc2,mi_idx2,t2,|NO MATCH
+kt1,kt2,mc2,ml,t2,|NO MATCH
+kt1,kt2,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,lt,ml,t2,|NO MATCH
+kt1,kt2,mc1,ml,t2,|NO MATCH
+kt1,kt2,mi_idx1,ml,t2,|NO MATCH
+kt1,mc1,mi_idx1,ml,t1,|350349.000000|3914.000000
+kt1,lt,mc1,ml,t1,|5983.000000|591.000000
+kt1,mc1,mc2,ml,t1,|477867.000000|594245.000000
+kt1,mc1,mi_idx2,ml,t1,|120961.000000|168098.000000
+kt1,mc1,ml,t1,t2,|7932.000000|5714.000000
+kt1,lt,mi_idx1,ml,t1,|3660.000000|171.000000
+kt1,mc2,mi_idx1,ml,t1,|140187.000000|171952.000000
+kt1,mi_idx1,mi_idx2,ml,t1,|36099.000000|48641.000000
+kt1,mi_idx1,ml,t1,t2,|1800.000000|1653.000000
+kt1,lt,mc2,ml,t1,|4890.000000|7314.000000
+kt1,lt,mi_idx2,ml,t1,|1740.000000|2069.000000
+kt1,lt,ml,t1,t2,|37.000000|70.000000
+kt1,mc2,mi_idx2,ml,t1,|68024.000000|70818.000000
+kt1,mc2,ml,t1,t2,|2350.000000|2407.000000
+kt1,mi_idx2,ml,t1,t2,|695.000000|622.000000
+kt2,mc2,mi_idx2,ml,t2,|1718.000000|103.000000
+kt2,lt,mc2,ml,t2,|46.000000|7.000000
+kt2,mc1,mc2,ml,t2,|3649.000000|6645.000000
+kt2,mc2,mi_idx1,ml,t2,|2517.000000|3831.000000
+kt2,mc2,ml,t1,t2,|1321.000000|1321.000000
+kt2,lt,mi_idx2,ml,t2,|21.000000|2.000000
+kt2,mc1,mi_idx2,ml,t2,|1208.000000|1801.000000
+kt2,mi_idx1,mi_idx2,ml,t2,|678.000000|1038.000000
+kt2,mi_idx2,ml,t1,t2,|358.000000|358.000000
+kt2,lt,mc1,ml,t2,|47.000000|101.000000
+kt2,lt,mi_idx1,ml,t2,|30.000000|58.000000
+kt2,lt,ml,t1,t2,|20.000000|20.000000
+kt2,mc1,mi_idx1,ml,t2,|2178.000000|2552.000000
+kt2,mc1,ml,t1,t2,|880.000000|880.000000
+kt2,mi_idx1,ml,t1,t2,|540.000000|540.000000
+lt,mc1,mc2,mi_idx1,ml,|150015.000000|148465.000000
+lt,mc1,mc2,mi_idx2,ml,|70336.000000|72842.000000
+lt,mc1,mc2,ml,t1,|51193.000000|51193.000000
+lt,mc1,mc2,ml,t2,|756.000000|2476.000000
+lt,mc1,mi_idx1,mi_idx2,ml,|38433.000000|41295.000000
+lt,mc1,mi_idx1,ml,t1,|29022.000000|29022.000000
+lt,mc1,mi_idx1,ml,t2,|474.000000|1404.000000
+lt,mc1,mi_idx2,ml,t1,|13067.000000|13067.000000
+lt,mc1,mi_idx2,ml,t2,|284.000000|632.000000
+lt,mc1,ml,t1,t2,|181.000000|488.000000
+lt,mc2,mi_idx1,mi_idx2,ml,|35499.000000|36813.000000
+lt,mc2,mi_idx1,ml,t1,|25872.000000|25872.000000
+lt,mc2,mi_idx1,ml,t2,|309.000000|1251.000000
+lt,mc2,mi_idx2,ml,t1,|12336.000000|12336.000000
+lt,mc2,mi_idx2,ml,t2,|199.000000|597.000000
+lt,mc2,ml,t1,t2,|128.000000|445.000000
+lt,mi_idx1,mi_idx2,ml,t1,|8235.000000|8235.000000
+lt,mi_idx1,mi_idx2,ml,t2,|123.000000|398.000000
+lt,mi_idx1,ml,t1,t2,|75.000000|299.000000
+lt,mi_idx2,ml,t1,t2,|50.000000|140.000000
+mc1,mc2,mi_idx1,mi_idx2,ml,|3875118.000000|3700706.000000
+mc1,mc2,mi_idx1,ml,t1,|2600844.000000|2600844.000000
+mc1,mc2,mi_idx1,ml,t2,|117792.000000|125795.000000
+mc1,mi_idx1,mi_idx2,ml,t1,|469074.000000|469074.000000
+mc1,mi_idx1,mi_idx2,ml,t2,|28305.000000|22688.000000
+mc1,mi_idx1,ml,t1,t2,|24936.000000|20646.000000
+mc1,mc2,mi_idx2,ml,t1,|1378204.000000|1378204.000000
+mc1,mc2,mi_idx2,ml,t2,|58658.000000|66659.000000
+mc1,mc2,ml,t1,t2,|41820.000000|44673.000000
+mc1,mi_idx2,ml,t1,t2,|9813.000000|7896.000000
+mc2,mi_idx1,mi_idx2,ml,t1,|969720.000000|969720.000000
+mc2,mi_idx1,mi_idx2,ml,t2,|20649.000000|46902.000000
+mc2,mi_idx2,ml,t1,t2,|13931.000000|26561.000000
+mc2,mi_idx1,ml,t1,t2,|14697.000000|29792.000000
+mi_idx1,mi_idx2,ml,t1,t2,|2616.000000|3748.000000
+cn1,it1,it2,mc1,mi_idx1,mi_idx2,|NO MATCH
+cn1,it1,it2,mc1,mi_idx1,ml,|NO MATCH
+cn1,it1,it2,mc1,mi_idx1,t1,|NO MATCH
+cn1,it1,lt,mc1,mi_idx1,ml,|477.000000|66.000000
+cn1,it1,mc1,mc2,mi_idx1,ml,|63904.000000|66417.000000
+cn1,it1,mc1,mi_idx1,mi_idx2,ml,|14599.000000|18788.000000
+cn1,it1,mc1,mi_idx1,ml,t1,|13204.000000|13204.000000
+cn1,it1,mc1,mi_idx1,ml,t2,|944.000000|639.000000
+cn1,it1,kt1,mc1,mi_idx1,t1,|3375.000000|1309.000000
+cn1,lt,mc1,mc2,mi_idx1,ml,|7551.000000|7198.000000
+cn1,lt,mc1,mi_idx1,mi_idx2,ml,|1848.000000|2036.000000
+cn1,lt,mc1,mi_idx1,ml,t1,|1431.000000|1431.000000
+cn1,lt,mc1,mi_idx1,ml,t2,|18.000000|69.000000
+cn1,cn2,mc1,mc2,mi_idx1,ml,|191712.000000|191712.000000
+cn1,mc1,mc2,mi_idx1,mi_idx2,ml,|273570.000000|272784.000000
+cn1,mc1,mc2,mi_idx1,ml,t1,|191712.000000|191712.000000
+cn1,mc1,mc2,mi_idx1,ml,t2,|9807.000000|9272.000000
+cn1,it2,mc1,mi_idx1,mi_idx2,ml,|846.000000|388.000000
+cn1,mc1,mi_idx1,mi_idx2,ml,t1,|43797.000000|43797.000000
+cn1,mc1,mi_idx1,mi_idx2,ml,t2,|2997.000000|2118.000000
+cn1,kt1,mc1,mi_idx1,ml,t1,|37716.000000|1188.000000
+cn1,mc1,mi_idx1,ml,t1,t2,|2832.000000|1916.000000
+cn1,kt2,mc1,mi_idx1,ml,t2,|87.000000|85.000000
+cn1,kt1,kt2,mc1,mi_idx1,t1,|NO MATCH
+cn1,cn2,lt,mc1,mc2,ml,|2570.000000|2570.000000
+cn1,lt,mc1,mc2,mi_idx2,ml,|3712.000000|3657.000000
+cn1,lt,mc1,mc2,ml,t1,|2570.000000|2570.000000
+cn1,lt,mc1,mc2,ml,t2,|29.000000|124.000000
+cn1,it2,lt,mc1,mi_idx2,ml,|4.000000|5.000000
+cn1,lt,mc1,mi_idx2,ml,t1,|620.000000|620.000000
+cn1,lt,mc1,mi_idx2,ml,t2,|12.000000|30.000000
+cn1,kt1,lt,mc1,ml,t1,|427.000000|15.000000
+cn1,lt,mc1,ml,t1,t2,|10.000000|25.000000
+cn1,kt2,lt,mc1,ml,t2,|5.000000|1.000000
+cn1,cn2,mc1,mc2,mi_idx2,ml,|105559.000000|104860.000000
+cn1,cn2,mc1,mc2,ml,t1,|73695.000000|73695.000000
+cn1,cn2,mc1,mc2,ml,t2,|4651.000000|3564.000000
+cn1,it2,mc1,mc2,mi_idx2,ml,|1108.000000|934.000000
+cn1,mc1,mc2,mi_idx2,ml,t1,|105559.000000|105559.000000
+cn1,mc1,mc2,mi_idx2,ml,t2,|6818.000000|5106.000000
+cn1,kt1,mc1,mc2,ml,t1,|51809.000000|2211.000000
+cn1,mc1,mc2,ml,t1,t2,|4651.000000|3564.000000
+cn1,kt2,mc1,mc2,ml,t2,|76.000000|140.000000
+cn1,it1,it2,mc1,mi_idx2,ml,|NO MATCH
+cn1,it2,mc1,mi_idx2,ml,t1,|285.000000|285.000000
+cn1,it2,mc1,mi_idx2,ml,t2,|10.000000|14.000000
+cn1,kt1,mc1,mi_idx2,ml,t1,|13702.000000|470.000000
+cn1,mc1,mi_idx2,ml,t1,t2,|1100.000000|757.000000
+cn1,kt2,mc1,mi_idx2,ml,t2,|21.000000|33.000000
+cn1,kt1,kt2,mc1,ml,t1,|NO MATCH
+cn1,kt1,mc1,ml,t1,t2,|927.000000|610.000000
+cn1,kt2,mc1,ml,t1,t2,|33.000000|30.000000
+cn1,kt1,kt2,mc1,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,t1,t2,|NO MATCH
+cn2,it1,it2,mc2,mi_idx1,mi_idx2,|NO MATCH
+cn2,it1,it2,mc2,mi_idx2,ml,|NO MATCH
+cn2,it1,it2,mc2,mi_idx2,t2,|NO MATCH
+cn2,it2,lt,mc2,mi_idx2,ml,|68.000000|23.000000
+cn2,it2,mc1,mc2,mi_idx2,ml,|15340.000000|22821.000000
+cn2,it2,mc2,mi_idx1,mi_idx2,ml,|7473.000000|13158.000000
+cn2,it2,mc2,mi_idx2,ml,t1,|4537.000000|4537.000000
+cn2,it2,mc2,mi_idx2,ml,t2,|353.000000|219.000000
+cn2,it2,kt2,mc2,mi_idx2,t2,|609.000000|84.000000
+cn2,lt,mc1,mc2,mi_idx2,ml,|70336.000000|62051.000000
+cn2,lt,mc2,mi_idx1,mi_idx2,ml,|35499.000000|35776.000000
+cn2,lt,mc2,mi_idx2,ml,t1,|12336.000000|12336.000000
+cn2,lt,mc2,mi_idx2,ml,t2,|199.000000|597.000000
+cn2,mc1,mc2,mi_idx1,mi_idx2,ml,|3875118.000000|3996927.000000
+cn2,mc1,mc2,mi_idx2,ml,t1,|1378204.000000|1378204.000000
+cn2,mc1,mc2,mi_idx2,ml,t2,|58658.000000|66659.000000
+cn2,it1,mc2,mi_idx1,mi_idx2,ml,|323240.000000|8582.000000
+cn2,mc2,mi_idx1,mi_idx2,ml,t1,|969720.000000|969720.000000
+cn2,mc2,mi_idx1,mi_idx2,ml,t2,|20649.000000|46902.000000
+cn2,kt1,mc2,mi_idx2,ml,t1,|68024.000000|16475.000000
+cn2,mc2,mi_idx2,ml,t1,t2,|13931.000000|26561.000000
+cn2,kt2,mc2,mi_idx2,ml,t2,|1718.000000|418.000000
+cn2,kt1,kt2,mc2,mi_idx2,t2,|NO MATCH
+cn2,lt,mc1,mc2,mi_idx1,ml,|150015.000000|148465.000000
+cn2,lt,mc1,mc2,ml,t1,|51193.000000|51193.000000
+cn2,lt,mc1,mc2,ml,t2,|756.000000|2476.000000
+cn2,it1,lt,mc2,mi_idx1,ml,|8624.000000|229.000000
+cn2,lt,mc2,mi_idx1,ml,t1,|25872.000000|25872.000000
+cn2,lt,mc2,mi_idx1,ml,t2,|309.000000|1251.000000
+cn2,kt1,lt,mc2,ml,t1,|4890.000000|276.000000
+cn2,lt,mc2,ml,t1,t2,|128.000000|445.000000
+cn2,kt2,lt,mc2,ml,t2,|46.000000|4.000000
+cn2,it1,mc1,mc2,mi_idx1,ml,|866948.000000|23016.000000
+cn2,mc1,mc2,mi_idx1,ml,t1,|2600844.000000|2600844.000000
+cn2,mc1,mc2,mi_idx1,ml,t2,|117792.000000|125795.000000
+cn2,kt1,mc1,mc2,ml,t1,|477867.000000|27709.000000
+cn2,mc1,mc2,ml,t1,t2,|41820.000000|44673.000000
+cn2,kt2,mc1,mc2,ml,t2,|3649.000000|1255.000000
+cn2,it1,it2,mc2,mi_idx1,ml,|NO MATCH
+cn2,it1,mc2,mi_idx1,ml,t1,|205317.000000|205317.000000
+cn2,it1,mc2,mi_idx1,ml,t2,|4899.000000|9931.000000
+cn2,kt1,mc2,mi_idx1,ml,t1,|140187.000000|18479.000000
+cn2,mc2,mi_idx1,ml,t1,t2,|14697.000000|29792.000000
+cn2,kt2,mc2,mi_idx1,ml,t2,|2517.000000|441.000000
+cn2,kt1,kt2,mc2,ml,t1,|NO MATCH
+cn2,kt1,mc2,ml,t1,t2,|2350.000000|2407.000000
+cn2,kt2,mc2,ml,t1,t2,|1321.000000|280.000000
+cn2,kt1,kt2,mc2,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc2,t1,t2,|NO MATCH
+it1,it2,mc1,mc2,mi_idx1,mi_idx2,|NO MATCH
+it1,it2,mc1,mi_idx1,mi_idx2,ml,|4115.000000|49.000000
+it1,it2,mc1,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,mc1,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mc1,mi_idx1,ml,|NO MATCH
+it1,it2,mc1,mc2,mi_idx1,ml,|NO MATCH
+it1,it2,mc1,mi_idx1,ml,t1,|NO MATCH
+it1,it2,mc1,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,mc1,mi_idx1,t1,|NO MATCH
+it1,it2,mc2,mi_idx1,mi_idx2,ml,|2491.000000|49.000000
+it1,it2,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mi_idx1,mi_idx2,ml,|30.000000|4.000000
+it1,it2,mi_idx1,mi_idx2,ml,t1,|817.000000|817.000000
+it1,it2,mi_idx1,mi_idx2,ml,t2,|75.000000|40.000000
+it1,it2,kt1,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt2,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mc2,mi_idx1,ml,|NO MATCH
+it1,it2,lt,mi_idx1,ml,t1,|NO MATCH
+it1,it2,lt,mi_idx1,ml,t2,|NO MATCH
+it1,it2,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,mi_idx1,ml,t1,|NO MATCH
+it1,it2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx1,t1,|NO MATCH
+it1,it2,lt,mc2,mi_idx2,ml,|NO MATCH
+it1,it2,mc1,mc2,mi_idx2,ml,|NO MATCH
+it1,it2,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt2,mc2,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mc1,mi_idx2,ml,|NO MATCH
+it1,it2,lt,mi_idx2,ml,t1,|NO MATCH
+it1,it2,lt,mi_idx2,ml,t2,|NO MATCH
+it1,it2,mc1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,mc1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx2,t2,|NO MATCH
+it1,lt,mc1,mc2,mi_idx1,ml,|50005.000000|48661.000000
+it1,lt,mc1,mi_idx1,mi_idx2,ml,|12811.000000|13765.000000
+it1,lt,mc1,mi_idx1,ml,t1,|9674.000000|9674.000000
+it1,lt,mc1,mi_idx1,ml,t2,|158.000000|468.000000
+it1,mc1,mc2,mi_idx1,mi_idx2,ml,|1291706.000000|1233569.000000
+it1,mc1,mc2,mi_idx1,ml,t1,|866948.000000|866948.000000
+it1,mc1,mc2,mi_idx1,ml,t2,|39264.000000|41932.000000
+it1,mc1,mi_idx1,mi_idx2,ml,t1,|156358.000000|156358.000000
+it1,mc1,mi_idx1,mi_idx2,ml,t2,|9435.000000|7563.000000
+it1,kt1,mc1,mi_idx1,ml,t1,|116783.000000|4269.000000
+it1,mc1,mi_idx1,ml,t1,t2,|8312.000000|6882.000000
+it1,kt2,mc1,mi_idx1,ml,t2,|726.000000|249.000000
+it1,kt1,kt2,mc1,mi_idx1,t1,|NO MATCH
+it1,lt,mc2,mi_idx1,mi_idx2,ml,|11833.000000|12271.000000
+it1,lt,mc2,mi_idx1,ml,t1,|8624.000000|8624.000000
+it1,lt,mc2,mi_idx1,ml,t2,|103.000000|417.000000
+it1,lt,mi_idx1,mi_idx2,ml,t1,|2745.000000|2745.000000
+it1,lt,mi_idx1,mi_idx2,ml,t2,|41.000000|133.000000
+it1,kt1,lt,mi_idx1,ml,t1,|1220.000000|62.000000
+it1,lt,mi_idx1,ml,t1,t2,|25.000000|100.000000
+it1,kt2,lt,mi_idx1,ml,t2,|10.000000|1.000000
+it1,mc2,mi_idx1,mi_idx2,ml,t1,|323240.000000|323240.000000
+it1,mc2,mi_idx1,mi_idx2,ml,t2,|6883.000000|15634.000000
+it1,kt1,mc2,mi_idx1,ml,t1,|46729.000000|6160.000000
+it1,mc2,mi_idx1,ml,t1,t2,|4899.000000|9931.000000
+it1,kt2,mc2,mi_idx1,ml,t2,|839.000000|147.000000
+it1,kt1,mi_idx1,mi_idx2,ml,t1,|12033.000000|775.000000
+it1,mi_idx1,mi_idx2,ml,t1,t2,|872.000000|1249.000000
+it1,kt2,mi_idx1,mi_idx2,ml,t2,|226.000000|26.000000
+it1,kt1,kt2,mi_idx1,ml,t1,|NO MATCH
+it1,kt1,mi_idx1,ml,t1,t2,|600.000000|551.000000
+it1,kt2,mi_idx1,ml,t1,t2,|180.000000|22.000000
+it1,kt1,kt2,mi_idx1,ml,t2,|NO MATCH
+it1,kt1,kt2,mi_idx1,t1,t2,|NO MATCH
+it2,lt,mc1,mc2,mi_idx2,ml,|198.000000|342.000000
+it2,lt,mc2,mi_idx1,mi_idx2,ml,|174.000000|197.000000
+it2,lt,mc2,mi_idx2,ml,t1,|68.000000|68.000000
+it2,lt,mc2,mi_idx2,ml,t2,|6.000000|3.000000
+it2,mc1,mc2,mi_idx1,mi_idx2,ml,|43560.000000|44488.000000
+it2,mc1,mc2,mi_idx2,ml,t1,|15340.000000|15340.000000
+it2,mc1,mc2,mi_idx2,ml,t2,|1405.000000|742.000000
+it2,mc2,mi_idx1,mi_idx2,ml,t1,|7473.000000|7473.000000
+it2,mc2,mi_idx1,mi_idx2,ml,t2,|510.000000|361.000000
+it2,kt1,mc2,mi_idx2,ml,t1,|2018.000000|136.000000
+it2,mc2,mi_idx2,ml,t1,t2,|353.000000|219.000000
+it2,kt2,mc2,mi_idx2,ml,t2,|177.000000|11.000000
+it2,kt1,kt2,mc2,mi_idx2,t2,|NO MATCH
+it2,lt,mc1,mi_idx1,mi_idx2,ml,|258.000000|270.000000
+it2,lt,mc1,mi_idx2,ml,t1,|93.000000|93.000000
+it2,lt,mc1,mi_idx2,ml,t2,|4.000000|4.000000
+it2,lt,mi_idx1,mi_idx2,ml,t1,|90.000000|90.000000
+it2,lt,mi_idx1,mi_idx2,ml,t2,|6.000000|4.000000
+it2,kt1,lt,mi_idx2,ml,t1,|30.000000|1.000000
+it2,lt,mi_idx2,ml,t1,t2,|2.000000|2.000000
+it2,kt2,lt,mi_idx2,ml,t2,|2.000000|1.000000
+it2,mc1,mi_idx1,mi_idx2,ml,t1,|12345.000000|12345.000000
+it2,mc1,mi_idx1,mi_idx2,ml,t2,|957.000000|597.000000
+it2,kt1,mc1,mi_idx2,ml,t1,|4029.000000|129.000000
+it2,mc1,mi_idx2,ml,t1,t2,|338.000000|208.000000
+it2,kt2,mc1,mi_idx2,ml,t2,|294.000000|10.000000
+it2,kt1,mi_idx1,mi_idx2,ml,t1,|2181.000000|74.000000
+it2,mi_idx1,mi_idx2,ml,t1,t2,|225.000000|119.000000
+it2,kt2,mi_idx1,mi_idx2,ml,t2,|219.000000|7.000000
+it2,kt1,kt2,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,mi_idx2,ml,t1,t2,|77.000000|38.000000
+it2,kt2,mi_idx2,ml,t1,t2,|82.000000|3.000000
+it2,kt1,kt2,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,mc1,mi_idx1,ml,t1,|NO MATCH
+kt1,kt2,mc1,mi_idx1,t1,t2,|NO MATCH
+kt1,kt2,lt,mc1,ml,t1,|NO MATCH
+kt1,kt2,mc1,mc2,ml,t1,|NO MATCH
+kt1,kt2,mc1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,mc1,ml,t1,t2,|732.000000|1.000000
+kt1,kt2,mc1,mc2,t1,t2,|NO MATCH
+kt1,kt2,mc1,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,lt,mi_idx1,ml,t1,|NO MATCH
+kt1,kt2,mc2,mi_idx1,ml,t1,|NO MATCH
+kt1,kt2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,mi_idx1,ml,t1,t2,|459.000000|1.000000
+kt1,kt2,mc2,mi_idx1,t1,t2,|NO MATCH
+kt1,kt2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,lt,mc2,ml,t1,|NO MATCH
+kt1,kt2,lt,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,lt,ml,t1,t2,|20.000000|1.000000
+kt1,kt2,mc2,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,mc2,ml,t1,t2,|421.000000|7.000000
+kt1,kt2,mi_idx2,ml,t1,t2,|220.000000|2.000000
+kt1,kt2,mc2,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,mc2,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,lt,mc2,ml,t2,|NO MATCH
+kt1,kt2,mc1,mc2,ml,t2,|NO MATCH
+kt1,kt2,mc2,mi_idx1,ml,t2,|NO MATCH
+kt1,kt2,lt,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,mc1,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,lt,mc1,ml,t2,|NO MATCH
+kt1,kt2,lt,mi_idx1,ml,t2,|NO MATCH
+kt1,kt2,mc1,mi_idx1,ml,t2,|NO MATCH
+kt1,lt,mc1,mi_idx1,ml,t1,|16770.000000|1752.000000
+kt1,mc1,mc2,mi_idx1,ml,t1,|1420545.000000|1762274.000000
+kt1,mc1,mi_idx1,mi_idx2,ml,t1,|359622.000000|498507.000000
+kt1,mc1,mi_idx1,ml,t1,t2,|23583.000000|16945.000000
+kt1,lt,mc1,mc2,ml,t1,|27914.000000|30095.000000
+kt1,lt,mc1,mi_idx2,ml,t1,|7836.000000|8513.000000
+kt1,lt,mc1,ml,t1,t2,|181.000000|289.000000
+kt1,mc1,mc2,mi_idx2,ml,t1,|659662.000000|679951.000000
+kt1,mc1,mc2,ml,t1,t2,|30779.000000|23113.000000
+kt1,mc1,mi_idx2,ml,t1,t2,|8835.000000|5850.000000
+kt1,lt,mc2,mi_idx1,ml,t1,|13053.000000|18410.000000
+kt1,lt,mi_idx1,mi_idx2,ml,t1,|4806.000000|5208.000000
+kt1,lt,mi_idx1,ml,t1,t2,|75.000000|177.000000
+kt1,mc2,mi_idx1,mi_idx2,ml,t1,|193413.000000|199470.000000
+kt1,mc2,mi_idx1,ml,t1,t2,|6774.000000|6780.000000
+kt1,mi_idx1,mi_idx2,ml,t1,t2,|1983.000000|1746.000000
+kt1,lt,mc2,mi_idx2,ml,t1,|6622.000000|6958.000000
+kt1,lt,mc2,ml,t1,t2,|128.000000|237.000000
+kt1,lt,mi_idx2,ml,t1,t2,|50.000000|84.000000
+kt1,mc2,mi_idx2,ml,t1,t2,|3197.000000|3290.000000
+kt2,lt,mc2,mi_idx2,ml,t2,|60.000000|9.000000
+kt2,mc1,mc2,mi_idx2,ml,t2,|4803.000000|8642.000000
+kt2,mc2,mi_idx1,mi_idx2,ml,t2,|2868.000000|4982.000000
+kt2,mc2,mi_idx2,ml,t1,t2,|1718.000000|1718.000000
+kt2,lt,mc1,mc2,ml,t2,|114.000000|231.000000
+kt2,lt,mc2,mi_idx1,ml,t2,|81.000000|133.000000
+kt2,lt,mc2,ml,t1,t2,|46.000000|46.000000
+kt2,mc1,mc2,mi_idx1,ml,t2,|9165.000000|10582.000000
+kt2,mc1,mc2,ml,t1,t2,|3649.000000|3649.000000
+kt2,mc2,mi_idx1,ml,t1,t2,|2517.000000|2517.000000
+kt2,lt,mc1,mi_idx2,ml,t2,|52.000000|106.000000
+kt2,lt,mi_idx1,mi_idx2,ml,t2,|48.000000|61.000000
+kt2,lt,mi_idx2,ml,t1,t2,|21.000000|21.000000
+kt2,mc1,mi_idx1,mi_idx2,ml,t2,|2946.000000|3503.000000
+kt2,mc1,mi_idx2,ml,t1,t2,|1208.000000|1208.000000
+kt2,mi_idx1,mi_idx2,ml,t1,t2,|678.000000|678.000000
+kt2,lt,mc1,mi_idx1,ml,t2,|81.000000|136.000000
+kt2,lt,mc1,ml,t1,t2,|47.000000|47.000000
+kt2,lt,mi_idx1,ml,t1,t2,|30.000000|30.000000
+kt2,mc1,mi_idx1,ml,t1,t2,|2178.000000|2178.000000
+lt,mc1,mc2,mi_idx1,mi_idx2,ml,|207948.000000|213454.000000
+lt,mc1,mc2,mi_idx1,ml,t1,|150015.000000|150015.000000
+lt,mc1,mc2,mi_idx1,ml,t2,|2142.000000|7256.000000
+lt,mc1,mc2,mi_idx2,ml,t1,|70336.000000|70336.000000
+lt,mc1,mc2,mi_idx2,ml,t2,|1310.000000|3402.000000
+lt,mc1,mc2,ml,t1,t2,|756.000000|2476.000000
+lt,mc1,mi_idx1,mi_idx2,ml,t1,|38433.000000|38433.000000
+lt,mc1,mi_idx1,mi_idx2,ml,t2,|813.000000|1859.000000
+lt,mc1,mi_idx1,ml,t1,t2,|474.000000|1404.000000
+lt,mc1,mi_idx2,ml,t1,t2,|284.000000|632.000000
+lt,mc2,mi_idx1,mi_idx2,ml,t1,|35499.000000|35499.000000
+lt,mc2,mi_idx1,mi_idx2,ml,t2,|519.000000|1717.000000
+lt,mc2,mi_idx1,ml,t1,t2,|309.000000|1251.000000
+lt,mc2,mi_idx2,ml,t1,t2,|199.000000|597.000000
+lt,mi_idx1,mi_idx2,ml,t1,t2,|123.000000|398.000000
+mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3875118.000000|3875118.000000
+mc1,mc2,mi_idx1,mi_idx2,ml,t2,|162621.000000|187427.000000
+mc1,mc2,mi_idx1,ml,t1,t2,|117792.000000|125795.000000
+mc1,mi_idx1,mi_idx2,ml,t1,t2,|28305.000000|22688.000000
+mc1,mc2,mi_idx2,ml,t1,t2,|58658.000000|66659.000000
+mc2,mi_idx1,mi_idx2,ml,t1,t2,|20649.000000|46902.000000
+cn1,it1,it2,mc1,mc2,mi_idx1,mi_idx2,|NO MATCH
+cn1,it1,it2,mc1,mi_idx1,mi_idx2,ml,|282.000000|35.000000
+cn1,it1,it2,mc1,mi_idx1,mi_idx2,t1,|NO MATCH
+cn1,it1,it2,mc1,mi_idx1,mi_idx2,t2,|NO MATCH
+cn1,it1,it2,lt,mc1,mi_idx1,ml,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx1,ml,|NO MATCH
+cn1,it1,it2,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,mc1,mi_idx1,t1,|NO MATCH
+cn1,it1,lt,mc1,mc2,mi_idx1,ml,|2517.000000|2399.000000
+cn1,it1,lt,mc1,mi_idx1,mi_idx2,ml,|616.000000|679.000000
+cn1,it1,lt,mc1,mi_idx1,ml,t1,|477.000000|477.000000
+cn1,it1,lt,mc1,mi_idx1,ml,t2,|6.000000|23.000000
+cn1,cn2,it1,mc1,mc2,mi_idx1,ml,|63904.000000|63904.000000
+cn1,it1,mc1,mc2,mi_idx1,mi_idx2,ml,|91190.000000|90928.000000
+cn1,it1,mc1,mc2,mi_idx1,ml,t1,|63904.000000|63904.000000
+cn1,it1,mc1,mc2,mi_idx1,ml,t2,|3269.000000|3091.000000
+cn1,it1,mc1,mi_idx1,mi_idx2,ml,t1,|14599.000000|14599.000000
+cn1,it1,mc1,mi_idx1,mi_idx2,ml,t2,|999.000000|706.000000
+cn1,it1,kt1,mc1,mi_idx1,ml,t1,|12572.000000|396.000000
+cn1,it1,mc1,mi_idx1,ml,t1,t2,|944.000000|639.000000
+cn1,it1,kt2,mc1,mi_idx1,ml,t2,|29.000000|28.000000
+cn1,it1,kt1,kt2,mc1,mi_idx1,t1,|NO MATCH
+cn1,cn2,lt,mc1,mc2,mi_idx1,ml,|7551.000000|7551.000000
+cn1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|11112.000000|10744.000000
+cn1,lt,mc1,mc2,mi_idx1,ml,t1,|7551.000000|7551.000000
+cn1,lt,mc1,mc2,mi_idx1,ml,t2,|63.000000|365.000000
+cn1,it2,lt,mc1,mi_idx1,mi_idx2,ml,|12.000000|16.000000
+cn1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|1848.000000|1848.000000
+cn1,lt,mc1,mi_idx1,mi_idx2,ml,t2,|36.000000|89.000000
+cn1,kt1,lt,mc1,mi_idx1,ml,t1,|1179.000000|43.000000
+cn1,lt,mc1,mi_idx1,ml,t1,t2,|18.000000|69.000000
+cn1,kt2,lt,mc1,mi_idx1,ml,t2,|3.000000|1.000000
+cn1,cn2,mc1,mc2,mi_idx1,mi_idx2,ml,|273570.000000|272784.000000
+cn1,cn2,mc1,mc2,mi_idx1,ml,t1,|191712.000000|191712.000000
+cn1,cn2,mc1,mc2,mi_idx1,ml,t2,|9807.000000|9272.000000
+cn1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,|3324.000000|2421.000000
+cn1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|273570.000000|273570.000000
+cn1,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|12975.000000|13232.000000
+cn1,kt1,mc1,mc2,mi_idx1,ml,t1,|155223.000000|5751.000000
+cn1,mc1,mc2,mi_idx1,ml,t1,t2,|9807.000000|9272.000000
+cn1,kt2,mc1,mc2,mi_idx1,ml,t2,|204.000000|294.000000
+cn1,it2,mc1,mi_idx1,mi_idx2,ml,t1,|846.000000|846.000000
+cn1,it2,mc1,mi_idx1,mi_idx2,ml,t2,|30.000000|41.000000
+cn1,kt1,mc1,mi_idx1,mi_idx2,ml,t1,|41085.000000|1314.000000
+cn1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|2997.000000|2118.000000
+cn1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|63.000000|90.000000
+cn1,kt1,kt2,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,kt1,mc1,mi_idx1,ml,t1,t2,|2763.000000|1824.000000
+cn1,kt2,mc1,mi_idx1,ml,t1,t2,|87.000000|85.000000
+cn1,kt1,kt2,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mi_idx1,t1,t2,|NO MATCH
+cn1,cn2,lt,mc1,mc2,mi_idx2,ml,|3712.000000|3657.000000
+cn1,cn2,lt,mc1,mc2,ml,t1,|2570.000000|2570.000000
+cn1,cn2,lt,mc1,mc2,ml,t2,|29.000000|124.000000
+cn1,it2,lt,mc1,mc2,mi_idx2,ml,|10.000000|33.000000
+cn1,lt,mc1,mc2,mi_idx2,ml,t1,|3712.000000|3712.000000
+cn1,lt,mc1,mc2,mi_idx2,ml,t2,|42.000000|180.000000
+cn1,kt1,lt,mc1,mc2,ml,t1,|2026.000000|77.000000
+cn1,lt,mc1,mc2,ml,t1,t2,|29.000000|124.000000
+cn1,kt2,lt,mc1,mc2,ml,t2,|12.000000|1.000000
+cn1,it1,it2,lt,mc1,mi_idx2,ml,|NO MATCH
+cn1,it2,lt,mc1,mi_idx2,ml,t1,|4.000000|4.000000
+cn1,it2,lt,mc1,mi_idx2,ml,t2,|1.000000|1.000000
+cn1,kt1,lt,mc1,mi_idx2,ml,t1,|523.000000|19.000000
+cn1,lt,mc1,mi_idx2,ml,t1,t2,|12.000000|30.000000
+cn1,kt2,lt,mc1,mi_idx2,ml,t2,|2.000000|1.000000
+cn1,kt1,kt2,lt,mc1,ml,t1,|NO MATCH
+cn1,kt1,lt,mc1,ml,t1,t2,|10.000000|21.000000
+cn1,kt2,lt,mc1,ml,t1,t2,|5.000000|1.000000
+cn1,kt1,kt2,lt,mc1,ml,t2,|NO MATCH
+cn1,cn2,it2,mc1,mc2,mi_idx2,ml,|1108.000000|934.000000
+cn1,cn2,mc1,mc2,mi_idx2,ml,t1,|105559.000000|105559.000000
+cn1,cn2,mc1,mc2,mi_idx2,ml,t2,|6818.000000|5106.000000
+cn1,cn2,kt1,mc1,mc2,ml,t1,|51809.000000|2211.000000
+cn1,cn2,mc1,mc2,ml,t1,t2,|4651.000000|3564.000000
+cn1,cn2,kt2,mc1,mc2,ml,t2,|76.000000|140.000000
+cn1,it1,it2,mc1,mc2,mi_idx2,ml,|NO MATCH
+cn1,it2,mc1,mc2,mi_idx2,ml,t1,|1108.000000|1108.000000
+cn1,it2,mc1,mc2,mi_idx2,ml,t2,|19.000000|54.000000
+cn1,kt1,mc1,mc2,mi_idx2,ml,t1,|71210.000000|3167.000000
+cn1,mc1,mc2,mi_idx2,ml,t1,t2,|6818.000000|5106.000000
+cn1,kt2,mc1,mc2,mi_idx2,ml,t2,|39.000000|205.000000
+cn1,kt1,kt2,mc1,mc2,ml,t1,|NO MATCH
+cn1,kt1,mc1,mc2,ml,t1,t2,|2896.000000|2506.000000
+cn1,kt2,mc1,mc2,ml,t1,t2,|76.000000|140.000000
+cn1,kt1,kt2,mc1,mc2,ml,t2,|NO MATCH
+cn1,it1,it2,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,mc1,mi_idx2,ml,t1,|275.000000|9.000000
+cn1,it2,mc1,mi_idx2,ml,t1,t2,|10.000000|14.000000
+cn1,it2,kt2,mc1,mi_idx2,ml,t2,|10.000000|1.000000
+cn1,kt1,kt2,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,kt1,mc1,mi_idx2,ml,t1,t2,|968.000000|663.000000
+cn1,kt2,mc1,mi_idx2,ml,t1,t2,|21.000000|33.000000
+cn1,kt1,kt2,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,ml,t1,t2,|33.000000|18.000000
+cn1,kt1,kt2,mc1,mc2,t1,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,|NO MATCH
+cn2,it1,it2,mc2,mi_idx1,mi_idx2,ml,|2491.000000|79.000000
+cn2,it1,it2,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn2,it1,it2,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn2,it1,it2,lt,mc2,mi_idx2,ml,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx2,ml,|NO MATCH
+cn2,it1,it2,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt2,mc2,mi_idx2,t2,|NO MATCH
+cn2,it2,lt,mc1,mc2,mi_idx2,ml,|198.000000|342.000000
+cn2,it2,lt,mc2,mi_idx1,mi_idx2,ml,|174.000000|197.000000
+cn2,it2,lt,mc2,mi_idx2,ml,t1,|68.000000|68.000000
+cn2,it2,lt,mc2,mi_idx2,ml,t2,|6.000000|3.000000
+cn2,it2,mc1,mc2,mi_idx1,mi_idx2,ml,|43560.000000|44488.000000
+cn2,it2,mc1,mc2,mi_idx2,ml,t1,|15340.000000|15340.000000
+cn2,it2,mc1,mc2,mi_idx2,ml,t2,|1405.000000|742.000000
+cn2,it2,mc2,mi_idx1,mi_idx2,ml,t1,|7473.000000|7473.000000
+cn2,it2,mc2,mi_idx1,mi_idx2,ml,t2,|510.000000|361.000000
+cn2,it2,kt1,mc2,mi_idx2,ml,t1,|2018.000000|136.000000
+cn2,it2,mc2,mi_idx2,ml,t1,t2,|353.000000|219.000000
+cn2,it2,kt2,mc2,mi_idx2,ml,t2,|177.000000|11.000000
+cn2,it2,kt1,kt2,mc2,mi_idx2,t2,|NO MATCH
+cn2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|207948.000000|203981.000000
+cn2,lt,mc1,mc2,mi_idx2,ml,t1,|70336.000000|70336.000000
+cn2,lt,mc1,mc2,mi_idx2,ml,t2,|1310.000000|3402.000000
+cn2,it1,lt,mc2,mi_idx1,mi_idx2,ml,|11833.000000|314.000000
+cn2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|35499.000000|35499.000000
+cn2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|519.000000|1717.000000
+cn2,kt1,lt,mc2,mi_idx2,ml,t1,|6622.000000|370.000000
+cn2,lt,mc2,mi_idx2,ml,t1,t2,|199.000000|597.000000
+cn2,kt2,lt,mc2,mi_idx2,ml,t2,|60.000000|6.000000
+cn2,it1,mc1,mc2,mi_idx1,mi_idx2,ml,|1291706.000000|34293.000000
+cn2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3875118.000000|3875118.000000
+cn2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|162621.000000|187427.000000
+cn2,kt1,mc1,mc2,mi_idx2,ml,t1,|659662.000000|41346.000000
+cn2,mc1,mc2,mi_idx2,ml,t1,t2,|58658.000000|66659.000000
+cn2,kt2,mc1,mc2,mi_idx2,ml,t2,|4803.000000|1760.000000
+cn2,it1,mc2,mi_idx1,mi_idx2,ml,t1,|323240.000000|323240.000000
+cn2,it1,mc2,mi_idx1,mi_idx2,ml,t2,|6883.000000|15634.000000
+cn2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,|193413.000000|29092.000000
+cn2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|20649.000000|46902.000000
+cn2,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|2868.000000|619.000000
+cn2,kt1,kt2,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,kt1,mc2,mi_idx2,ml,t1,t2,|3197.000000|3290.000000
+cn2,kt2,mc2,mi_idx2,ml,t1,t2,|1718.000000|418.000000
+cn2,kt1,kt2,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc2,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,lt,mc1,mc2,mi_idx1,ml,|50005.000000|1328.000000
+cn2,lt,mc1,mc2,mi_idx1,ml,t1,|150015.000000|150015.000000
+cn2,lt,mc1,mc2,mi_idx1,ml,t2,|2142.000000|7256.000000
+cn2,kt1,lt,mc1,mc2,ml,t1,|27914.000000|1536.000000
+cn2,lt,mc1,mc2,ml,t1,t2,|756.000000|2476.000000
+cn2,kt2,lt,mc1,mc2,ml,t2,|114.000000|23.000000
+cn2,it1,it2,lt,mc2,mi_idx1,ml,|NO MATCH
+cn2,it1,lt,mc2,mi_idx1,ml,t1,|8624.000000|8624.000000
+cn2,it1,lt,mc2,mi_idx1,ml,t2,|103.000000|417.000000
+cn2,kt1,lt,mc2,mi_idx1,ml,t1,|13053.000000|776.000000
+cn2,lt,mc2,mi_idx1,ml,t1,t2,|309.000000|1251.000000
+cn2,kt2,lt,mc2,mi_idx1,ml,t2,|81.000000|9.000000
+cn2,kt1,kt2,lt,mc2,ml,t1,|NO MATCH
+cn2,kt1,lt,mc2,ml,t1,t2,|128.000000|237.000000
+cn2,kt2,lt,mc2,ml,t1,t2,|46.000000|4.000000
+cn2,kt1,kt2,lt,mc2,ml,t2,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx1,ml,|NO MATCH
+cn2,it1,mc1,mc2,mi_idx1,ml,t1,|866948.000000|866948.000000
+cn2,it1,mc1,mc2,mi_idx1,ml,t2,|39264.000000|41932.000000
+cn2,kt1,mc1,mc2,mi_idx1,ml,t1,|1420545.000000|78025.000000
+cn2,mc1,mc2,mi_idx1,ml,t1,t2,|117792.000000|125795.000000
+cn2,kt2,mc1,mc2,mi_idx1,ml,t2,|9165.000000|3534.000000
+cn2,kt1,kt2,mc1,mc2,ml,t1,|NO MATCH
+cn2,kt1,mc1,mc2,ml,t1,t2,|30779.000000|23113.000000
+cn2,kt2,mc1,mc2,ml,t1,t2,|3649.000000|1255.000000
+cn2,kt1,kt2,mc1,mc2,ml,t2,|NO MATCH
+cn2,it1,it2,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,mc2,mi_idx1,ml,t1,|46729.000000|6160.000000
+cn2,it1,mc2,mi_idx1,ml,t1,t2,|4899.000000|9931.000000
+cn2,it1,kt2,mc2,mi_idx1,ml,t2,|839.000000|147.000000
+cn2,kt1,kt2,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,kt1,mc2,mi_idx1,ml,t1,t2,|6774.000000|6780.000000
+cn2,kt2,mc2,mi_idx1,ml,t1,t2,|2517.000000|441.000000
+cn2,kt1,kt2,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc2,ml,t1,t2,|421.000000|72.000000
+cn2,kt1,kt2,mc1,mc2,t1,t2,|NO MATCH
+cn2,kt1,kt2,mc2,mi_idx1,t1,t2,|NO MATCH
+it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,|14520.000000|245.000000
+it1,it2,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mc1,mi_idx1,mi_idx2,ml,|86.000000|21.000000
+it1,it2,mc1,mi_idx1,mi_idx2,ml,t1,|4115.000000|4115.000000
+it1,it2,mc1,mi_idx1,mi_idx2,ml,t2,|319.000000|199.000000
+it1,it2,kt1,mc1,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx1,ml,|NO MATCH
+it1,it2,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+it1,it2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+it1,it2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,mc1,mi_idx1,ml,t1,|NO MATCH
+it1,it2,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx1,t1,|NO MATCH
+it1,it2,lt,mc2,mi_idx1,mi_idx2,ml,|58.000000|12.000000
+it1,it2,mc2,mi_idx1,mi_idx2,ml,t1,|2491.000000|2491.000000
+it1,it2,mc2,mi_idx1,mi_idx2,ml,t2,|170.000000|120.000000
+it1,it2,kt1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt2,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mi_idx1,mi_idx2,ml,t1,|30.000000|30.000000
+it1,it2,lt,mi_idx1,mi_idx2,ml,t2,|2.000000|1.000000
+it1,it2,kt1,mi_idx1,mi_idx2,ml,t1,|727.000000|25.000000
+it1,it2,mi_idx1,mi_idx2,ml,t1,t2,|75.000000|40.000000
+it1,it2,kt2,mi_idx1,mi_idx2,ml,t2,|73.000000|2.000000
+it1,it2,kt1,kt2,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,kt1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,lt,mi_idx1,ml,t1,|NO MATCH
+it1,it2,lt,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,kt1,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx1,t1,t2,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx2,ml,|NO MATCH
+it1,it2,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,lt,mi_idx2,ml,t1,|NO MATCH
+it1,it2,lt,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,mc1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx2,t1,t2,|NO MATCH
+it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|69316.000000|71151.000000
+it1,lt,mc1,mc2,mi_idx1,ml,t1,|50005.000000|50005.000000
+it1,lt,mc1,mc2,mi_idx1,ml,t2,|714.000000|2419.000000
+it1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|12811.000000|12811.000000
+it1,lt,mc1,mi_idx1,mi_idx2,ml,t2,|271.000000|620.000000
+it1,kt1,lt,mc1,mi_idx1,ml,t1,|5590.000000|290.000000
+it1,lt,mc1,mi_idx1,ml,t1,t2,|158.000000|468.000000
+it1,kt2,lt,mc1,mi_idx1,ml,t2,|27.000000|5.000000
+it1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|1291706.000000|1291706.000000
+it1,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|54207.000000|62476.000000
+it1,kt1,mc1,mc2,mi_idx1,ml,t1,|473515.000000|26008.000000
+it1,mc1,mc2,mi_idx1,ml,t1,t2,|39264.000000|41932.000000
+it1,kt2,mc1,mc2,mi_idx1,ml,t2,|3055.000000|1178.000000
+it1,kt1,mc1,mi_idx1,mi_idx2,ml,t1,|119874.000000|4691.000000
+it1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|9435.000000|7563.000000
+it1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|982.000000|283.000000
+it1,kt1,kt2,mc1,mi_idx1,ml,t1,|NO MATCH
+it1,kt1,mc1,mi_idx1,ml,t1,t2,|7861.000000|5648.000000
+it1,kt2,mc1,mi_idx1,ml,t1,t2,|726.000000|249.000000
+it1,kt1,kt2,mc1,mi_idx1,ml,t2,|NO MATCH
+it1,kt1,kt2,mc1,mi_idx1,t1,t2,|NO MATCH
+it1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|11833.000000|11833.000000
+it1,lt,mc2,mi_idx1,mi_idx2,ml,t2,|173.000000|572.000000
+it1,kt1,lt,mc2,mi_idx1,ml,t1,|4351.000000|259.000000
+it1,lt,mc2,mi_idx1,ml,t1,t2,|103.000000|417.000000
+it1,kt2,lt,mc2,mi_idx1,ml,t2,|27.000000|3.000000
+it1,kt1,lt,mi_idx1,mi_idx2,ml,t1,|1602.000000|82.000000
+it1,lt,mi_idx1,mi_idx2,ml,t1,t2,|41.000000|133.000000
+it1,kt2,lt,mi_idx1,mi_idx2,ml,t2,|16.000000|1.000000
+it1,kt1,kt2,lt,mi_idx1,ml,t1,|NO MATCH
+it1,kt1,lt,mi_idx1,ml,t1,t2,|25.000000|59.000000
+it1,kt2,lt,mi_idx1,ml,t1,t2,|10.000000|1.000000
+it1,kt1,kt2,lt,mi_idx1,ml,t2,|NO MATCH
+it1,kt1,mc2,mi_idx1,mi_idx2,ml,t1,|64471.000000|9697.000000
+it1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6883.000000|15634.000000
+it1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|956.000000|206.000000
+it1,kt1,kt2,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,kt1,mc2,mi_idx1,ml,t1,t2,|2258.000000|2260.000000
+it1,kt2,mc2,mi_idx1,ml,t1,t2,|839.000000|147.000000
+it1,kt1,kt2,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,kt1,kt2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,kt1,mi_idx1,mi_idx2,ml,t1,t2,|661.000000|582.000000
+it1,kt2,mi_idx1,mi_idx2,ml,t1,t2,|226.000000|26.000000
+it1,kt1,kt2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,kt1,kt2,mi_idx1,ml,t1,t2,|153.000000|17.000000
+it1,kt1,kt2,mc2,mi_idx1,t1,t2,|NO MATCH
+it1,kt1,kt2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|537.000000|574.000000
+it2,lt,mc1,mc2,mi_idx2,ml,t1,|198.000000|198.000000
+it2,lt,mc1,mc2,mi_idx2,ml,t2,|14.000000|10.000000
+it2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|174.000000|174.000000
+it2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|18.000000|8.000000
+it2,kt1,lt,mc2,mi_idx2,ml,t1,|58.000000|2.000000
+it2,lt,mc2,mi_idx2,ml,t1,t2,|6.000000|3.000000
+it2,kt2,lt,mc2,mi_idx2,ml,t2,|6.000000|1.000000
+it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|43560.000000|43560.000000
+it2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|3984.000000|2107.000000
+it2,kt1,mc1,mc2,mi_idx2,ml,t1,|13264.000000|460.000000
+it2,mc1,mc2,mi_idx2,ml,t1,t2,|1405.000000|742.000000
+it2,kt2,mc1,mc2,mi_idx2,ml,t2,|603.000000|42.000000
+it2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,|5595.000000|224.000000
+it2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|510.000000|361.000000
+it2,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|447.000000|15.000000
+it2,kt1,kt2,mc2,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,mc2,mi_idx2,ml,t1,t2,|170.000000|98.000000
+it2,kt2,mc2,mi_idx2,ml,t1,t2,|177.000000|11.000000
+it2,kt1,kt2,mc2,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,mc2,mi_idx2,t1,t2,|NO MATCH
+it2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|258.000000|258.000000
+it2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|12.000000|12.000000
+it2,kt1,lt,mc1,mi_idx2,ml,t1,|84.000000|3.000000
+it2,lt,mc1,mi_idx2,ml,t1,t2,|4.000000|4.000000
+it2,kt2,lt,mc1,mi_idx2,ml,t2,|4.000000|1.000000
+it2,kt1,lt,mi_idx1,mi_idx2,ml,t1,|84.000000|3.000000
+it2,lt,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|4.000000
+it2,kt2,lt,mi_idx1,mi_idx2,ml,t2,|6.000000|1.000000
+it2,kt1,kt2,lt,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,lt,mi_idx2,ml,t1,t2,|2.000000|1.000000
+it2,kt2,lt,mi_idx2,ml,t1,t2,|2.000000|1.000000
+it2,kt1,kt2,lt,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,mc1,mi_idx1,mi_idx2,ml,t1,|11775.000000|370.000000
+it2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|957.000000|597.000000
+it2,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|834.000000|29.000000
+it2,kt1,kt2,mc1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,mc1,mi_idx2,ml,t1,t2,|325.000000|195.000000
+it2,kt2,mc1,mi_idx2,ml,t1,t2,|294.000000|10.000000
+it2,kt1,kt2,mc1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,mi_idx1,mi_idx2,ml,t1,t2,|213.000000|105.000000
+it2,kt2,mi_idx1,mi_idx2,ml,t1,t2,|219.000000|7.000000
+it2,kt1,kt2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,mi_idx2,ml,t1,t2,|75.000000|1.000000
+it2,kt1,kt2,mc1,mi_idx2,t1,t2,|NO MATCH
+it2,kt1,kt2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,mc1,mi_idx1,ml,t1,t2,|2034.000000|1.000000
+kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+kt1,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,lt,mc1,mc2,ml,t1,|NO MATCH
+kt1,kt2,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,lt,mc1,ml,t1,t2,|47.000000|1.000000
+kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,mc1,mc2,ml,t1,t2,|1922.000000|7.000000
+kt1,kt2,mc1,mi_idx2,ml,t1,t2,|971.000000|2.000000
+kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+kt1,kt2,lt,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,lt,mi_idx1,ml,t1,t2,|30.000000|1.000000
+kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,mc2,mi_idx1,ml,t1,t2,|1074.000000|4.000000
+kt1,kt2,mi_idx1,mi_idx2,ml,t1,t2,|582.000000|1.000000
+kt1,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,lt,mc2,ml,t1,t2,|46.000000|1.000000
+kt1,kt2,lt,mi_idx2,ml,t1,t2,|21.000000|1.000000
+kt1,kt2,mc2,mi_idx2,ml,t1,t2,|522.000000|9.000000
+kt1,kt2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,lt,mc1,mc2,ml,t2,|NO MATCH
+kt1,kt2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+kt1,kt2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,lt,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+kt1,lt,mc1,mc2,mi_idx1,ml,t1,|80409.000000|84354.000000
+kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|22848.000000|23862.000000
+kt1,lt,mc1,mi_idx1,ml,t1,t2,|474.000000|811.000000
+kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|1964859.000000|2021275.000000
+kt1,mc1,mc2,mi_idx1,ml,t1,t2,|91887.000000|68707.000000
+kt1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|26334.000000|17394.000000
+kt1,lt,mc1,mc2,mi_idx2,ml,t1,|40791.000000|39718.000000
+kt1,lt,mc1,mc2,ml,t1,t2,|756.000000|1350.000000
+kt1,lt,mc1,mi_idx2,ml,t1,t2,|284.000000|379.000000
+kt1,mc1,mc2,mi_idx2,ml,t1,t2,|41377.000000|31906.000000
+kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|18525.000000|18573.000000
+kt1,lt,mc2,mi_idx1,ml,t1,t2,|309.000000|631.000000
+kt1,lt,mi_idx1,mi_idx2,ml,t1,t2,|123.000000|232.000000
+kt1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|9291.000000|9355.000000
+kt1,lt,mc2,mi_idx2,ml,t1,t2,|199.000000|320.000000
+kt2,lt,mc1,mc2,mi_idx2,ml,t2,|164.000000|302.000000
+kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|138.000000|174.000000
+kt2,lt,mc2,mi_idx2,ml,t1,t2,|60.000000|60.000000
+kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|11466.000000|13929.000000
+kt2,mc1,mc2,mi_idx2,ml,t1,t2,|4803.000000|4803.000000
+kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|2868.000000|2868.000000
+kt2,lt,mc1,mc2,mi_idx1,ml,t2,|243.000000|331.000000
+kt2,lt,mc1,mc2,ml,t1,t2,|114.000000|114.000000
+kt2,lt,mc2,mi_idx1,ml,t1,t2,|81.000000|81.000000
+kt2,mc1,mc2,mi_idx1,ml,t1,t2,|9165.000000|9165.000000
+kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|135.000000|151.000000
+kt2,lt,mc1,mi_idx2,ml,t1,t2,|52.000000|52.000000
+kt2,lt,mi_idx1,mi_idx2,ml,t1,t2,|48.000000|48.000000
+kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|2946.000000|2946.000000
+kt2,lt,mc1,mi_idx1,ml,t1,t2,|81.000000|81.000000
+lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|207948.000000|207948.000000
+lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|3816.000000|10058.000000
+lt,mc1,mc2,mi_idx1,ml,t1,t2,|2142.000000|7256.000000
+lt,mc1,mc2,mi_idx2,ml,t1,t2,|1310.000000|3402.000000
+lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|813.000000|1859.000000
+lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|519.000000|1717.000000
+mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|162621.000000|187427.000000
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,|1108.000000|174.000000
+cn1,it1,it2,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn1,it1,it2,lt,mc1,mi_idx1,mi_idx2,ml,|4.000000|1.000000
+cn1,it1,it2,mc1,mi_idx1,mi_idx2,ml,t1,|282.000000|282.000000
+cn1,it1,it2,mc1,mi_idx1,mi_idx2,ml,t2,|10.000000|14.000000
+cn1,it1,it2,kt1,mc1,mi_idx1,mi_idx2,t1,|NO MATCH
+cn1,it1,it2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mi_idx1,mi_idx2,t2,|NO MATCH
+cn1,it1,it2,lt,mc1,mc2,mi_idx1,ml,|NO MATCH
+cn1,it1,it2,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,ml,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,t1,|NO MATCH
+cn1,cn2,it1,lt,mc1,mc2,mi_idx1,ml,|2517.000000|2517.000000
+cn1,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|3704.000000|3581.000000
+cn1,it1,lt,mc1,mc2,mi_idx1,ml,t1,|2517.000000|2517.000000
+cn1,it1,lt,mc1,mc2,mi_idx1,ml,t2,|21.000000|122.000000
+cn1,it1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|616.000000|616.000000
+cn1,it1,lt,mc1,mi_idx1,mi_idx2,ml,t2,|12.000000|30.000000
+cn1,it1,kt1,lt,mc1,mi_idx1,ml,t1,|393.000000|14.000000
+cn1,it1,lt,mc1,mi_idx1,ml,t1,t2,|6.000000|23.000000
+cn1,it1,kt2,lt,mc1,mi_idx1,ml,t2,|1.000000|1.000000
+cn1,cn2,it1,mc1,mc2,mi_idx1,mi_idx2,ml,|91190.000000|90928.000000
+cn1,cn2,it1,mc1,mc2,mi_idx1,ml,t1,|63904.000000|63904.000000
+cn1,cn2,it1,mc1,mc2,mi_idx1,ml,t2,|3269.000000|3091.000000
+cn1,it1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|91190.000000|91190.000000
+cn1,it1,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|4325.000000|4411.000000
+cn1,it1,kt1,mc1,mc2,mi_idx1,ml,t1,|51741.000000|1917.000000
+cn1,it1,mc1,mc2,mi_idx1,ml,t1,t2,|3269.000000|3091.000000
+cn1,it1,kt2,mc1,mc2,mi_idx1,ml,t2,|68.000000|98.000000
+cn1,it1,kt1,mc1,mi_idx1,mi_idx2,ml,t1,|13695.000000|438.000000
+cn1,it1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|999.000000|706.000000
+cn1,it1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|21.000000|30.000000
+cn1,it1,kt1,kt2,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,kt1,mc1,mi_idx1,ml,t1,t2,|921.000000|608.000000
+cn1,it1,kt2,mc1,mi_idx1,ml,t1,t2,|29.000000|28.000000
+cn1,it1,kt1,kt2,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,kt1,kt2,mc1,mi_idx1,t1,t2,|NO MATCH
+cn1,cn2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|11112.000000|10744.000000
+cn1,cn2,lt,mc1,mc2,mi_idx1,ml,t1,|7551.000000|7551.000000
+cn1,cn2,lt,mc1,mc2,mi_idx1,ml,t2,|63.000000|365.000000
+cn1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|30.000000|98.000000
+cn1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|11112.000000|11112.000000
+cn1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|126.000000|537.000000
+cn1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|5919.000000|227.000000
+cn1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|63.000000|365.000000
+cn1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|12.000000|2.000000
+cn1,it2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|12.000000|12.000000
+cn1,it2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|3.000000|1.000000
+cn1,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|1557.000000|55.000000
+cn1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|36.000000|89.000000
+cn1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|6.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,kt1,lt,mc1,mi_idx1,ml,t1,t2,|18.000000|57.000000
+cn1,kt2,lt,mc1,mi_idx1,ml,t1,t2,|3.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,cn2,it2,mc1,mc2,mi_idx1,mi_idx2,ml,|3324.000000|2421.000000
+cn1,cn2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|273570.000000|273570.000000
+cn1,cn2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|12975.000000|13232.000000
+cn1,cn2,kt1,mc1,mc2,mi_idx1,ml,t1,|155223.000000|5751.000000
+cn1,cn2,mc1,mc2,mi_idx1,ml,t1,t2,|9807.000000|9272.000000
+cn1,cn2,kt2,mc1,mc2,mi_idx1,ml,t2,|204.000000|294.000000
+cn1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3324.000000|3324.000000
+cn1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|57.000000|161.000000
+cn1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|213582.000000|8207.000000
+cn1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12975.000000|13232.000000
+cn1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|117.000000|389.000000
+cn1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|8646.000000|7508.000000
+cn1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|204.000000|294.000000
+cn1,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it2,kt1,mc1,mi_idx1,mi_idx2,ml,t1,|825.000000|25.000000
+cn1,it2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|30.000000|41.000000
+cn1,it2,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|30.000000|1.000000
+cn1,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,kt1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|2898.000000|1987.000000
+cn1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|63.000000|90.000000
+cn1,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mi_idx1,ml,t1,t2,|87.000000|55.000000
+cn1,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it2,lt,mc1,mc2,mi_idx2,ml,|10.000000|33.000000
+cn1,cn2,lt,mc1,mc2,mi_idx2,ml,t1,|3712.000000|3712.000000
+cn1,cn2,lt,mc1,mc2,mi_idx2,ml,t2,|42.000000|180.000000
+cn1,cn2,kt1,lt,mc1,mc2,ml,t1,|2026.000000|77.000000
+cn1,cn2,lt,mc1,mc2,ml,t1,t2,|29.000000|124.000000
+cn1,cn2,kt2,lt,mc1,mc2,ml,t2,|12.000000|1.000000
+cn1,it1,it2,lt,mc1,mc2,mi_idx2,ml,|NO MATCH
+cn1,it2,lt,mc1,mc2,mi_idx2,ml,t1,|10.000000|10.000000
+cn1,it2,lt,mc1,mc2,mi_idx2,ml,t2,|4.000000|1.000000
+cn1,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|3057.000000|111.000000
+cn1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|42.000000|180.000000
+cn1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|8.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mc2,ml,t1,|NO MATCH
+cn1,kt1,lt,mc1,mc2,ml,t1,t2,|29.000000|98.000000
+cn1,kt2,lt,mc1,mc2,ml,t1,t2,|12.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mc2,ml,t2,|NO MATCH
+cn1,it1,it2,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,lt,mc1,mi_idx2,ml,t1,|4.000000|1.000000
+cn1,it2,lt,mc1,mi_idx2,ml,t1,t2,|1.000000|1.000000
+cn1,it2,kt2,lt,mc1,mi_idx2,ml,t2,|1.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,kt1,lt,mc1,mi_idx2,ml,t1,t2,|12.000000|25.000000
+cn1,kt2,lt,mc1,mi_idx2,ml,t1,t2,|2.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,lt,mc1,ml,t1,t2,|5.000000|1.000000
+cn1,cn2,it1,it2,mc1,mc2,mi_idx2,ml,|NO MATCH
+cn1,cn2,it2,mc1,mc2,mi_idx2,ml,t1,|1108.000000|1108.000000
+cn1,cn2,it2,mc1,mc2,mi_idx2,ml,t2,|19.000000|54.000000
+cn1,cn2,kt1,mc1,mc2,mi_idx2,ml,t1,|71210.000000|3167.000000
+cn1,cn2,mc1,mc2,mi_idx2,ml,t1,t2,|6818.000000|5106.000000
+cn1,cn2,kt2,mc1,mc2,mi_idx2,ml,t2,|39.000000|205.000000
+cn1,cn2,kt1,kt2,mc1,mc2,ml,t1,|NO MATCH
+cn1,cn2,kt1,mc1,mc2,ml,t1,t2,|2896.000000|2506.000000
+cn1,cn2,kt2,mc1,mc2,ml,t1,t2,|76.000000|140.000000
+cn1,cn2,kt1,kt2,mc1,mc2,ml,t2,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,|1060.000000|33.000000
+cn1,it2,mc1,mc2,mi_idx2,ml,t1,t2,|19.000000|54.000000
+cn1,it2,kt2,mc1,mc2,mi_idx2,ml,t2,|19.000000|1.000000
+cn1,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|3678.000000|3444.000000
+cn1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|39.000000|205.000000
+cn1,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mc2,ml,t1,t2,|76.000000|75.000000
+cn1,it1,it2,kt1,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,kt2,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,it2,kt1,mc1,mi_idx2,ml,t1,t2,|10.000000|13.000000
+cn1,it2,kt2,mc1,mi_idx2,ml,t1,t2,|10.000000|1.000000
+cn1,it2,kt1,kt2,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mi_idx2,ml,t1,t2,|21.000000|20.000000
+cn1,cn2,kt1,kt2,mc1,mc2,t1,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+cn1,it2,kt1,kt2,mc1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,|14520.000000|399.000000
+cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn2,it1,it2,lt,mc2,mi_idx1,mi_idx2,ml,|58.000000|12.000000
+cn2,it1,it2,mc2,mi_idx1,mi_idx2,ml,t1,|2491.000000|2491.000000
+cn2,it1,it2,mc2,mi_idx1,mi_idx2,ml,t2,|170.000000|120.000000
+cn2,it1,it2,kt1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn2,it1,it2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx2,ml,|NO MATCH
+cn2,it1,it2,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx2,t2,|NO MATCH
+cn2,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|537.000000|574.000000
+cn2,it2,lt,mc1,mc2,mi_idx2,ml,t1,|198.000000|198.000000
+cn2,it2,lt,mc1,mc2,mi_idx2,ml,t2,|14.000000|10.000000
+cn2,it2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|174.000000|174.000000
+cn2,it2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|18.000000|8.000000
+cn2,it2,kt1,lt,mc2,mi_idx2,ml,t1,|58.000000|2.000000
+cn2,it2,lt,mc2,mi_idx2,ml,t1,t2,|6.000000|3.000000
+cn2,it2,kt2,lt,mc2,mi_idx2,ml,t2,|6.000000|1.000000
+cn2,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|43560.000000|43560.000000
+cn2,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|3984.000000|2107.000000
+cn2,it2,kt1,mc1,mc2,mi_idx2,ml,t1,|13264.000000|460.000000
+cn2,it2,mc1,mc2,mi_idx2,ml,t1,t2,|1405.000000|742.000000
+cn2,it2,kt2,mc1,mc2,mi_idx2,ml,t2,|603.000000|42.000000
+cn2,it2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,|5595.000000|224.000000
+cn2,it2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|510.000000|361.000000
+cn2,it2,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|447.000000|15.000000
+cn2,it2,kt1,kt2,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it2,kt1,mc2,mi_idx2,ml,t1,t2,|170.000000|98.000000
+cn2,it2,kt2,mc2,mi_idx2,ml,t1,t2,|177.000000|11.000000
+cn2,it2,kt1,kt2,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it2,kt1,kt2,mc2,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|69316.000000|1840.000000
+cn2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|207948.000000|207948.000000
+cn2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|3816.000000|10058.000000
+cn2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|40791.000000|2110.000000
+cn2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|1310.000000|3402.000000
+cn2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|164.000000|39.000000
+cn2,it1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|11833.000000|11833.000000
+cn2,it1,lt,mc2,mi_idx1,mi_idx2,ml,t2,|173.000000|572.000000
+cn2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|18525.000000|1065.000000
+cn2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|519.000000|1717.000000
+cn2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|138.000000|16.000000
+cn2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,kt1,lt,mc2,mi_idx2,ml,t1,t2,|199.000000|320.000000
+cn2,kt2,lt,mc2,mi_idx2,ml,t1,t2,|60.000000|6.000000
+cn2,kt1,kt2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|1291706.000000|1291706.000000
+cn2,it1,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|54207.000000|62476.000000
+cn2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|1964859.000000|116254.000000
+cn2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|162621.000000|187427.000000
+cn2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|11466.000000|4879.000000
+cn2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|41377.000000|31906.000000
+cn2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|4803.000000|1760.000000
+cn2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,kt1,mc2,mi_idx1,mi_idx2,ml,t1,|64471.000000|9697.000000
+cn2,it1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6883.000000|15634.000000
+cn2,it1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|956.000000|206.000000
+cn2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|9291.000000|9355.000000
+cn2,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|2868.000000|619.000000
+cn2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc2,mi_idx2,ml,t1,t2,|522.000000|99.000000
+cn2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+cn2,kt1,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx1,ml,|NO MATCH
+cn2,it1,lt,mc1,mc2,mi_idx1,ml,t1,|50005.000000|50005.000000
+cn2,it1,lt,mc1,mc2,mi_idx1,ml,t2,|714.000000|2419.000000
+cn2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|80409.000000|4500.000000
+cn2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|2142.000000|7256.000000
+cn2,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|243.000000|64.000000
+cn2,kt1,kt2,lt,mc1,mc2,ml,t1,|NO MATCH
+cn2,kt1,lt,mc1,mc2,ml,t1,t2,|756.000000|1350.000000
+cn2,kt2,lt,mc1,mc2,ml,t1,t2,|114.000000|23.000000
+cn2,kt1,kt2,lt,mc1,mc2,ml,t2,|NO MATCH
+cn2,it1,it2,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,lt,mc2,mi_idx1,ml,t1,|4351.000000|259.000000
+cn2,it1,lt,mc2,mi_idx1,ml,t1,t2,|103.000000|417.000000
+cn2,it1,kt2,lt,mc2,mi_idx1,ml,t2,|27.000000|3.000000
+cn2,kt1,kt2,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,kt1,lt,mc2,mi_idx1,ml,t1,t2,|309.000000|631.000000
+cn2,kt2,lt,mc2,mi_idx1,ml,t1,t2,|81.000000|9.000000
+cn2,kt1,kt2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,kt1,kt2,lt,mc2,ml,t1,t2,|46.000000|7.000000
+cn2,it1,it2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,mc1,mc2,mi_idx1,ml,t1,|473515.000000|26008.000000
+cn2,it1,mc1,mc2,mi_idx1,ml,t1,t2,|39264.000000|41932.000000
+cn2,it1,kt2,mc1,mc2,mi_idx1,ml,t2,|3055.000000|1178.000000
+cn2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|91887.000000|68707.000000
+cn2,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|9165.000000|3534.000000
+cn2,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc1,mc2,ml,t1,t2,|1922.000000|693.000000
+cn2,it1,it2,kt1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,kt2,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,kt1,mc2,mi_idx1,ml,t1,t2,|2258.000000|2260.000000
+cn2,it1,kt2,mc2,mi_idx1,ml,t1,t2,|839.000000|147.000000
+cn2,it1,kt1,kt2,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc2,mi_idx1,ml,t1,t2,|1074.000000|203.000000
+cn2,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+cn2,it1,kt1,kt2,mc2,mi_idx1,t1,t2,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|179.000000|73.000000
+it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|14520.000000|14520.000000
+it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|1328.000000|702.000000
+it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|86.000000|86.000000
+it1,it2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|4.000000|4.000000
+it1,it2,kt1,mc1,mi_idx1,mi_idx2,ml,t1,|3925.000000|123.000000
+it1,it2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|319.000000|199.000000
+it1,it2,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|278.000000|10.000000
+it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,kt1,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+it1,it2,lt,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx1,ml,t1,|NO MATCH
+it1,it2,kt1,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx1,t1,t2,|NO MATCH
+it1,it2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|58.000000|58.000000
+it1,it2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|6.000000|3.000000
+it1,it2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,|1865.000000|75.000000
+it1,it2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|170.000000|120.000000
+it1,it2,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|149.000000|5.000000
+it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,kt1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,kt1,lt,mi_idx1,mi_idx2,ml,t1,|28.000000|1.000000
+it1,it2,lt,mi_idx1,mi_idx2,ml,t1,t2,|2.000000|1.000000
+it1,it2,kt2,lt,mi_idx1,mi_idx2,ml,t2,|2.000000|1.000000
+it1,it2,kt1,kt2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,mi_idx1,mi_idx2,ml,t1,t2,|71.000000|35.000000
+it1,it2,kt2,mi_idx1,mi_idx2,ml,t1,t2,|73.000000|2.000000
+it1,it2,kt1,kt2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,lt,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mi_idx1,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,kt1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx1,t1,t2,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,lt,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,lt,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx2,t1,t2,|NO MATCH
+it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|69316.000000|69316.000000
+it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|1272.000000|3353.000000
+it1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|26803.000000|1500.000000
+it1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|714.000000|2419.000000
+it1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|81.000000|21.000000
+it1,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|7616.000000|384.000000
+it1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|271.000000|620.000000
+it1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|45.000000|8.000000
+it1,kt1,kt2,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+it1,kt1,lt,mc1,mi_idx1,ml,t1,t2,|158.000000|270.000000
+it1,kt2,lt,mc1,mi_idx1,ml,t1,t2,|27.000000|5.000000
+it1,kt1,kt2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+it1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|654953.000000|38751.000000
+it1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|54207.000000|62476.000000
+it1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|3822.000000|1626.000000
+it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|30629.000000|22902.000000
+it1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|3055.000000|1178.000000
+it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,kt1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|8778.000000|5798.000000
+it1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|982.000000|283.000000
+it1,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,kt1,kt2,mc1,mi_idx1,ml,t1,t2,|678.000000|169.000000
+it1,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+it1,kt1,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|6175.000000|355.000000
+it1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|173.000000|572.000000
+it1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|46.000000|5.000000
+it1,kt1,kt2,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,kt1,lt,mc2,mi_idx1,ml,t1,t2,|103.000000|210.000000
+it1,kt2,lt,mc2,mi_idx1,ml,t1,t2,|27.000000|3.000000
+it1,kt1,kt2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,kt1,kt2,lt,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,kt1,lt,mi_idx1,mi_idx2,ml,t1,t2,|41.000000|77.000000
+it1,kt2,lt,mi_idx1,mi_idx2,ml,t1,t2,|16.000000|1.000000
+it1,kt1,kt2,lt,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,kt1,kt2,lt,mi_idx1,ml,t1,t2,|10.000000|2.000000
+it1,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,kt1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3097.000000|3118.000000
+it1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|956.000000|206.000000
+it1,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,kt1,kt2,mc2,mi_idx1,ml,t1,t2,|358.000000|68.000000
+it1,kt1,kt2,mi_idx1,mi_idx2,ml,t1,t2,|194.000000|17.000000
+it1,kt1,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|537.000000|537.000000
+it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|42.000000|26.000000
+it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|177.000000|6.000000
+it2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|14.000000|10.000000
+it2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|14.000000|1.000000
+it2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|162.000000|5.000000
+it2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|18.000000|8.000000
+it2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|18.000000|1.000000
+it2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,lt,mc2,mi_idx2,ml,t1,t2,|6.000000|3.000000
+it2,kt2,lt,mc2,mi_idx2,ml,t1,t2,|6.000000|1.000000
+it2,kt1,kt2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|39042.000000|1307.000000
+it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3984.000000|2107.000000
+it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|1647.000000|120.000000
+it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|1329.000000|642.000000
+it2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|603.000000|42.000000
+it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|468.000000|271.000000
+it2,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|447.000000|15.000000
+it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,mc2,mi_idx2,ml,t1,t2,|149.000000|3.000000
+it2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+it2,kt1,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it2,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|243.000000|8.000000
+it2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|12.000000
+it2,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|12.000000|1.000000
+it2,kt1,kt2,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,lt,mc1,mi_idx2,ml,t1,t2,|4.000000|4.000000
+it2,kt2,lt,mc1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+it2,kt1,kt2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,lt,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,lt,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|4.000000
+it2,kt2,lt,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|1.000000
+it2,kt1,kt2,lt,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,lt,mi_idx2,ml,t1,t2,|2.000000|1.000000
+it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|942.000000|570.000000
+it2,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|834.000000|29.000000
+it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,mc1,mi_idx2,ml,t1,t2,|282.000000|6.000000
+it2,kt1,kt2,mi_idx1,mi_idx2,ml,t1,t2,|210.000000|3.000000
+it2,kt1,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,lt,mc1,mi_idx1,ml,t1,t2,|81.000000|1.000000
+kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|5439.000000|4.000000
+kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|2781.000000|1.000000
+kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,lt,mc1,mc2,ml,t1,t2,|114.000000|1.000000
+kt1,kt2,lt,mc1,mi_idx2,ml,t1,t2,|52.000000|1.000000
+kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|2663.000000|10.000000
+kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,lt,mc2,mi_idx1,ml,t1,t2,|81.000000|1.000000
+kt1,kt2,lt,mi_idx1,mi_idx2,ml,t1,t2,|48.000000|1.000000
+kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1365.000000|5.000000
+kt1,kt2,lt,mc2,mi_idx2,ml,t1,t2,|60.000000|1.000000
+kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|119607.000000|114413.000000
+kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|2142.000000|3889.000000
+kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|813.000000|1105.000000
+kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|123663.000000|95034.000000
+kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|1310.000000|1973.000000
+kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|519.000000|896.000000
+kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|432.000000|476.000000
+kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|164.000000|164.000000
+kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|138.000000|138.000000
+kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|11466.000000|11466.000000
+kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|243.000000|243.000000
+kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|135.000000|135.000000
+lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3816.000000|10058.000000
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,|1108.000000|174.000000
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn1,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|10.000000|6.000000
+cn1,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|1108.000000|1108.000000
+cn1,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|19.000000|54.000000
+cn1,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn1,it1,it2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|4.000000|4.000000
+cn1,it1,it2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|1.000000|1.000000
+cn1,it1,it2,kt1,mc1,mi_idx1,mi_idx2,ml,t1,|275.000000|8.000000
+cn1,it1,it2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|10.000000|14.000000
+cn1,it1,it2,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|10.000000|1.000000
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,t1,|NO MATCH
+cn1,it1,it2,kt1,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,t2,|NO MATCH
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx1,ml,|NO MATCH
+cn1,it1,it2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,lt,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,t1,t2,|NO MATCH
+cn1,cn2,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|3704.000000|3581.000000
+cn1,cn2,it1,lt,mc1,mc2,mi_idx1,ml,t1,|2517.000000|2517.000000
+cn1,cn2,it1,lt,mc1,mc2,mi_idx1,ml,t2,|21.000000|122.000000
+cn1,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3704.000000|3704.000000
+cn1,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|42.000000|179.000000
+cn1,it1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|1973.000000|76.000000
+cn1,it1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|21.000000|122.000000
+cn1,it1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|4.000000|1.000000
+cn1,it1,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|519.000000|18.000000
+cn1,it1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|30.000000
+cn1,it1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|2.000000|1.000000
+cn1,it1,kt1,kt2,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,kt1,lt,mc1,mi_idx1,ml,t1,t2,|6.000000|19.000000
+cn1,it1,kt2,lt,mc1,mi_idx1,ml,t1,t2,|1.000000|1.000000
+cn1,it1,kt1,kt2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,cn2,it1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|91190.000000|91190.000000
+cn1,cn2,it1,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|4325.000000|4411.000000
+cn1,cn2,it1,kt1,mc1,mc2,mi_idx1,ml,t1,|51741.000000|1917.000000
+cn1,cn2,it1,mc1,mc2,mi_idx1,ml,t1,t2,|3269.000000|3091.000000
+cn1,cn2,it1,kt2,mc1,mc2,mi_idx1,ml,t2,|68.000000|98.000000
+cn1,it1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|71194.000000|2736.000000
+cn1,it1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4325.000000|4411.000000
+cn1,it1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|39.000000|130.000000
+cn1,it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|2882.000000|2503.000000
+cn1,it1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|68.000000|98.000000
+cn1,it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,kt1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|966.000000|662.000000
+cn1,it1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|21.000000|30.000000
+cn1,it1,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,it1,kt1,kt2,mc1,mi_idx1,ml,t1,t2,|29.000000|18.000000
+cn1,it1,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+cn1,it1,kt1,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|30.000000|98.000000
+cn1,cn2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|11112.000000|11112.000000
+cn1,cn2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|126.000000|537.000000
+cn1,cn2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|5919.000000|227.000000
+cn1,cn2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|63.000000|365.000000
+cn1,cn2,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|12.000000|2.000000
+cn1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|30.000000|30.000000
+cn1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|12.000000|1.000000
+cn1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|9147.000000|333.000000
+cn1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|126.000000|537.000000
+cn1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|24.000000|4.000000
+cn1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|63.000000|286.000000
+cn1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|12.000000|2.000000
+cn1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it2,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|12.000000|1.000000
+cn1,it2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|3.000000|1.000000
+cn1,it2,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|3.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|36.000000|75.000000
+cn1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,lt,mc1,mi_idx1,ml,t1,t2,|3.000000|2.000000
+cn1,cn2,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3324.000000|3324.000000
+cn1,cn2,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|57.000000|161.000000
+cn1,cn2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|213582.000000|8207.000000
+cn1,cn2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12975.000000|13232.000000
+cn1,cn2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|117.000000|389.000000
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|8646.000000|7508.000000
+cn1,cn2,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|204.000000|294.000000
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3180.000000|100.000000
+cn1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|57.000000|161.000000
+cn1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|57.000000|2.000000
+cn1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|11016.000000|10330.000000
+cn1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|117.000000|389.000000
+cn1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|204.000000|225.000000
+cn1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it2,kt1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|30.000000|40.000000
+cn1,it2,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|30.000000|1.000000
+cn1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|63.000000|60.000000
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx2,ml,|NO MATCH
+cn1,cn2,it2,lt,mc1,mc2,mi_idx2,ml,t1,|10.000000|10.000000
+cn1,cn2,it2,lt,mc1,mc2,mi_idx2,ml,t2,|4.000000|1.000000
+cn1,cn2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|3057.000000|111.000000
+cn1,cn2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|42.000000|180.000000
+cn1,cn2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|8.000000|1.000000
+cn1,cn2,kt1,kt2,lt,mc1,mc2,ml,t1,|NO MATCH
+cn1,cn2,kt1,lt,mc1,mc2,ml,t1,t2,|29.000000|98.000000
+cn1,cn2,kt2,lt,mc1,mc2,ml,t1,t2,|12.000000|1.000000
+cn1,cn2,kt1,kt2,lt,mc1,mc2,ml,t2,|NO MATCH
+cn1,it1,it2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|10.000000|1.000000
+cn1,it2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|4.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|42.000000|148.000000
+cn1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|8.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,lt,mc1,mc2,ml,t1,t2,|12.000000|3.000000
+cn1,it1,it2,kt1,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,lt,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,kt2,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,it2,kt1,lt,mc1,mi_idx2,ml,t1,t2,|1.000000|1.000000
+cn1,it2,kt2,lt,mc1,mi_idx2,ml,t1,t2,|1.000000|1.000000
+cn1,it2,kt1,kt2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,lt,mc1,mi_idx2,ml,t1,t2,|2.000000|1.000000
+cn1,cn2,it1,it2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it2,kt1,mc1,mc2,mi_idx2,ml,t1,|1060.000000|33.000000
+cn1,cn2,it2,mc1,mc2,mi_idx2,ml,t1,t2,|19.000000|54.000000
+cn1,cn2,it2,kt2,mc1,mc2,mi_idx2,ml,t2,|19.000000|1.000000
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|3678.000000|3444.000000
+cn1,cn2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|39.000000|205.000000
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,kt1,kt2,mc1,mc2,ml,t1,t2,|76.000000|75.000000
+cn1,it1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|19.000000|51.000000
+cn1,it2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|19.000000|1.000000
+cn1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|39.000000|103.000000
+cn1,it1,it2,kt1,kt2,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,kt2,mc1,mi_idx2,ml,t1,t2,|10.000000|1.000000
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+cn1,it2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|179.000000|73.000000
+cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|14520.000000|14520.000000
+cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|1328.000000|702.000000
+cn2,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn2,it1,it2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|58.000000|58.000000
+cn2,it1,it2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|6.000000|3.000000
+cn2,it1,it2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,|1865.000000|75.000000
+cn2,it1,it2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|170.000000|120.000000
+cn2,it1,it2,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|149.000000|5.000000
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn2,it1,it2,kt1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,lt,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx2,t1,t2,|NO MATCH
+cn2,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|537.000000|537.000000
+cn2,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|42.000000|26.000000
+cn2,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|177.000000|6.000000
+cn2,it2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|14.000000|10.000000
+cn2,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|14.000000|1.000000
+cn2,it2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|162.000000|5.000000
+cn2,it2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|18.000000|8.000000
+cn2,it2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|18.000000|1.000000
+cn2,it2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it2,kt1,lt,mc2,mi_idx2,ml,t1,t2,|6.000000|3.000000
+cn2,it2,kt2,lt,mc2,mi_idx2,ml,t1,t2,|6.000000|1.000000
+cn2,it2,kt1,kt2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|39042.000000|1307.000000
+cn2,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3984.000000|2107.000000
+cn2,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|1647.000000|120.000000
+cn2,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|1329.000000|642.000000
+cn2,it2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|603.000000|42.000000
+cn2,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|468.000000|271.000000
+cn2,it2,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|447.000000|15.000000
+cn2,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,it2,kt1,kt2,mc2,mi_idx2,ml,t1,t2,|149.000000|3.000000
+cn2,it2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+cn2,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|69316.000000|69316.000000
+cn2,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|1272.000000|3353.000000
+cn2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|119607.000000|6238.000000
+cn2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3816.000000|10058.000000
+cn2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|432.000000|114.000000
+cn2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|1310.000000|1973.000000
+cn2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|164.000000|39.000000
+cn2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|6175.000000|355.000000
+cn2,it1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|173.000000|572.000000
+cn2,it1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|46.000000|5.000000
+cn2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|519.000000|896.000000
+cn2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|138.000000|16.000000
+cn2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,t2,|60.000000|10.000000
+cn2,it1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|654953.000000|38751.000000
+cn2,it1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|54207.000000|62476.000000
+cn2,it1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|3822.000000|1626.000000
+cn2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|123663.000000|95034.000000
+cn2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|11466.000000|4879.000000
+cn2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|2663.000000|957.000000
+cn2,it1,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,kt1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3097.000000|3118.000000
+cn2,it1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|956.000000|206.000000
+cn2,it1,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1365.000000|281.000000
+cn2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,kt1,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|26803.000000|1500.000000
+cn2,it1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|714.000000|2419.000000
+cn2,it1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|81.000000|21.000000
+cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|2142.000000|3889.000000
+cn2,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|243.000000|64.000000
+cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,kt1,kt2,lt,mc1,mc2,ml,t1,t2,|114.000000|41.000000
+cn2,it1,it2,kt1,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,lt,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,kt2,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,kt1,lt,mc2,mi_idx1,ml,t1,t2,|103.000000|210.000000
+cn2,it1,kt2,lt,mc2,mi_idx1,ml,t1,t2,|27.000000|3.000000
+cn2,it1,kt1,kt2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,kt1,kt2,lt,mc2,mi_idx1,ml,t1,t2,|81.000000|19.000000
+cn2,it1,it2,kt1,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|30629.000000|22902.000000
+cn2,it1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|3055.000000|1178.000000
+cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|5439.000000|2061.000000
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,kt2,mc2,mi_idx1,ml,t1,t2,|358.000000|68.000000
+cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,t1,t2,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|179.000000|179.000000
+it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|14.000000|9.000000
+it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|13014.000000|436.000000
+it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1328.000000|702.000000
+it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|549.000000|40.000000
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+it1,it2,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|81.000000|3.000000
+it1,it2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|4.000000
+it1,it2,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|4.000000|1.000000
+it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|314.000000|190.000000
+it1,it2,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|278.000000|10.000000
+it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+it1,it2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|54.000000|2.000000
+it1,it2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|3.000000
+it1,it2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|6.000000|1.000000
+it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|156.000000|90.000000
+it1,it2,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|149.000000|5.000000
+it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mi_idx1,mi_idx2,ml,t1,t2,|2.000000|1.000000
+it1,it2,kt2,lt,mi_idx1,mi_idx2,ml,t1,t2,|2.000000|1.000000
+it1,it2,kt1,kt2,lt,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mi_idx1,mi_idx2,ml,t1,t2,|70.000000|1.000000
+it1,it2,kt1,kt2,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+it1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|39869.000000|2079.000000
+it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1272.000000|3353.000000
+it1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|144.000000|38.000000
+it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|714.000000|1296.000000
+it1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|81.000000|21.000000
+it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|271.000000|368.000000
+it1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|45.000000|8.000000
+it1,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,kt1,kt2,lt,mc1,mi_idx1,ml,t1,t2,|27.000000|8.000000
+it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|41221.000000|31678.000000
+it1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3822.000000|1626.000000
+it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|1813.000000|687.000000
+it1,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|927.000000|174.000000
+it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|173.000000|299.000000
+it1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|46.000000|5.000000
+it1,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,kt1,kt2,lt,mc2,mi_idx1,ml,t1,t2,|27.000000|6.000000
+it1,kt1,kt2,lt,mi_idx1,mi_idx2,ml,t1,t2,|16.000000|2.000000
+it1,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|455.000000|94.000000
+it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|510.000000|16.000000
+it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|26.000000
+it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|42.000000|1.000000
+it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|14.000000|9.000000
+it2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|14.000000|1.000000
+it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|18.000000|8.000000
+it2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|18.000000|1.000000
+it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,t2,|6.000000|1.000000
+it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3909.000000|1888.000000
+it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1647.000000|120.000000
+it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|546.000000|19.000000
+it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|411.000000|8.000000
+it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|12.000000
+it2,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,lt,mc1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+it2,kt1,kt2,lt,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|1.000000
+it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|819.000000|17.000000
+kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|243.000000|1.000000
+kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|135.000000|1.000000
+kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|7659.000000|5.000000
+kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|164.000000|1.000000
+kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|138.000000|1.000000
+kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3816.000000|5785.000000
+kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|432.000000|432.000000
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,|10.000000|6.000000
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|1108.000000|1108.000000
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|19.000000|54.000000
+cn1,cn2,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn1,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|10.000000|10.000000
+cn1,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|4.000000|1.000000
+cn1,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|1060.000000|33.000000
+cn1,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|19.000000|54.000000
+cn1,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|19.000000|1.000000
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn1,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,|4.000000|1.000000
+cn1,it1,it2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|1.000000|1.000000
+cn1,it1,it2,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|1.000000|1.000000
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,mc1,mi_idx1,mi_idx2,ml,t1,t2,|10.000000|13.000000
+cn1,it1,it2,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|10.000000|1.000000
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,lt,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mi_idx1,ml,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+cn1,cn2,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3704.000000|3704.000000
+cn1,cn2,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|42.000000|179.000000
+cn1,cn2,it1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|1973.000000|76.000000
+cn1,cn2,it1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|21.000000|122.000000
+cn1,cn2,it1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|4.000000|1.000000
+cn1,it1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3049.000000|111.000000
+cn1,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|179.000000
+cn1,it1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|8.000000|1.000000
+cn1,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|21.000000|95.000000
+cn1,it1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|4.000000|1.000000
+cn1,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|25.000000
+cn1,it1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|2.000000|1.000000
+cn1,it1,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,it1,kt1,kt2,lt,mc1,mi_idx1,ml,t1,t2,|1.000000|1.000000
+cn1,cn2,it1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|71194.000000|2736.000000
+cn1,cn2,it1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4325.000000|4411.000000
+cn1,cn2,it1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|39.000000|130.000000
+cn1,cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,it1,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|2882.000000|2503.000000
+cn1,cn2,it1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|68.000000|98.000000
+cn1,cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3672.000000|3443.000000
+cn1,it1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|39.000000|130.000000
+cn1,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|68.000000|75.000000
+cn1,it1,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|21.000000|20.000000
+cn1,cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+cn1,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|30.000000|30.000000
+cn1,cn2,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|12.000000|1.000000
+cn1,cn2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|9147.000000|333.000000
+cn1,cn2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|126.000000|537.000000
+cn1,cn2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|24.000000|4.000000
+cn1,cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|63.000000|286.000000
+cn1,cn2,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|12.000000|2.000000
+cn1,cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|30.000000|1.000000
+cn1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+cn1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|12.000000|1.000000
+cn1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|126.000000|442.000000
+cn1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|24.000000|4.000000
+cn1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|12.000000|9.000000
+cn1,it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it2,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|3.000000|1.000000
+cn1,it2,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|3.000000|1.000000
+cn1,it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|2.000000
+cn1,cn2,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3180.000000|100.000000
+cn1,cn2,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|57.000000|161.000000
+cn1,cn2,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|57.000000|2.000000
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|11016.000000|10330.000000
+cn1,cn2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|117.000000|389.000000
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|204.000000|225.000000
+cn1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|57.000000|154.000000
+cn1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|57.000000|2.000000
+cn1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|117.000000|310.000000
+cn1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|30.000000|1.000000
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|10.000000|1.000000
+cn1,cn2,it2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,cn2,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|4.000000|1.000000
+cn1,cn2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|42.000000|148.000000
+cn1,cn2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|8.000000|1.000000
+cn1,cn2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,kt1,kt2,lt,mc1,mc2,ml,t1,t2,|12.000000|3.000000
+cn1,it1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|8.000000|4.000000
+cn1,it1,it2,kt1,kt2,lt,mc1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,lt,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,kt2,lt,mc1,mi_idx2,ml,t1,t2,|1.000000|1.000000
+cn1,cn2,it1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|19.000000|51.000000
+cn1,cn2,it2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|19.000000|1.000000
+cn1,cn2,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|39.000000|103.000000
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|19.000000|2.000000
+cn1,it1,it2,kt1,kt2,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|179.000000|179.000000
+cn2,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|14.000000|9.000000
+cn2,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|13014.000000|436.000000
+cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1328.000000|702.000000
+cn2,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|549.000000|40.000000
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn2,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn2,it1,it2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,|54.000000|2.000000
+cn2,it1,it2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|3.000000
+cn2,it1,it2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|6.000000|1.000000
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|156.000000|90.000000
+cn2,it1,it2,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|149.000000|5.000000
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,lt,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,lt,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,lt,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+cn2,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|510.000000|16.000000
+cn2,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|26.000000
+cn2,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|42.000000|1.000000
+cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|14.000000|9.000000
+cn2,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|14.000000|1.000000
+cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|18.000000|8.000000
+cn2,it2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|18.000000|1.000000
+cn2,it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,it2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,t2,|6.000000|1.000000
+cn2,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3909.000000|1888.000000
+cn2,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1647.000000|120.000000
+cn2,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|546.000000|19.000000
+cn2,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|411.000000|8.000000
+cn2,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|39869.000000|2079.000000
+cn2,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1272.000000|3353.000000
+cn2,it1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|144.000000|38.000000
+cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3816.000000|5785.000000
+cn2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|432.000000|114.000000
+cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|164.000000|59.000000
+cn2,it1,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|173.000000|299.000000
+cn2,it1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|46.000000|5.000000
+cn2,it1,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|138.000000|27.000000
+cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|41221.000000|31678.000000
+cn2,it1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3822.000000|1626.000000
+cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|7659.000000|2851.000000
+cn2,it1,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|455.000000|94.000000
+cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|714.000000|1296.000000
+cn2,it1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|81.000000|21.000000
+cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|243.000000|117.000000
+cn2,it1,it2,kt1,kt2,lt,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,lt,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,lt,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,lt,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,kt2,lt,mc2,mi_idx1,ml,t1,t2,|27.000000|6.000000
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|1813.000000|687.000000
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+it1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|170.000000|5.000000
+it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|14.000000|9.000000
+it1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|14.000000|1.000000
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1303.000000|629.000000
+it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|549.000000|40.000000
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|4.000000
+it1,it2,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+it1,it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|273.000000|6.000000
+it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|3.000000
+it1,it2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|1.000000
+it1,it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|137.000000|3.000000
+it1,it2,kt1,kt2,lt,mi_idx1,mi_idx2,ml,t1,t2,|2.000000|1.000000
+it1,it2,kt1,kt2,lt,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1272.000000|1928.000000
+it1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|144.000000|38.000000
+it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|81.000000|39.000000
+it1,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|45.000000|11.000000
+it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|2553.000000|950.000000
+it1,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|46.000000|9.000000
+it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|25.000000
+it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|1.000000
+it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|14.000000|1.000000
+it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|18.000000|1.000000
+it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1572.000000|57.000000
+it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|432.000000|1.000000
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|10.000000|10.000000
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|4.000000|1.000000
+cn1,cn2,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|1060.000000|33.000000
+cn1,cn2,it1,it2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|19.000000|54.000000
+cn1,cn2,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|19.000000|1.000000
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,|NO MATCH
+cn1,cn2,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t2,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|10.000000|1.000000
+cn1,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,it1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|4.000000|1.000000
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|19.000000|51.000000
+cn1,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|19.000000|1.000000
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|1.000000|1.000000
+cn1,it1,it2,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|1.000000|1.000000
+cn1,it1,it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mi_idx1,mi_idx2,ml,t1,t2,|10.000000|1.000000
+cn1,cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,kt1,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,t1,t2,|NO MATCH
+cn1,cn2,it1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|3049.000000|111.000000
+cn1,cn2,it1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|179.000000
+cn1,cn2,it1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|8.000000|1.000000
+cn1,cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,it1,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|21.000000|95.000000
+cn1,cn2,it1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|4.000000|1.000000
+cn1,cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|147.000000
+cn1,it1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|8.000000|1.000000
+cn1,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|4.000000|3.000000
+cn1,it1,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|2.000000|1.000000
+cn1,cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|3672.000000|3443.000000
+cn1,cn2,it1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|39.000000|130.000000
+cn1,cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|68.000000|75.000000
+cn1,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|39.000000|103.000000
+cn1,cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|30.000000|1.000000
+cn1,cn2,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+cn1,cn2,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|12.000000|1.000000
+cn1,cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|126.000000|442.000000
+cn1,cn2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|24.000000|4.000000
+cn1,cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|12.000000|9.000000
+cn1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+cn1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+cn1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|24.000000|13.000000
+cn1,it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|3.000000|1.000000
+cn1,cn2,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|57.000000|154.000000
+cn1,cn2,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|57.000000|2.000000
+cn1,cn2,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|117.000000|310.000000
+cn1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|57.000000|5.000000
+cn1,cn2,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,cn2,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|8.000000|4.000000
+cn1,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,it1,it2,kt1,kt2,lt,mc1,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,kt1,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|19.000000|2.000000
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|170.000000|5.000000
+cn2,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|14.000000|9.000000
+cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|14.000000|1.000000
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1303.000000|629.000000
+cn2,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|549.000000|40.000000
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|3.000000
+cn2,it1,it2,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|1.000000
+cn2,it1,it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc2,mi_idx1,mi_idx2,ml,t1,t2,|137.000000|3.000000
+cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,lt,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|25.000000
+cn2,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|1.000000
+cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|14.000000|1.000000
+cn2,it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|18.000000|1.000000
+cn2,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1572.000000|57.000000
+cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|1272.000000|1928.000000
+cn2,it1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|144.000000|38.000000
+cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|432.000000|174.000000
+cn2,it1,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|46.000000|9.000000
+cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|2553.000000|950.000000
+cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|81.000000|39.000000
+cn2,it1,it2,kt1,kt2,lt,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+it1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|14.000000|8.000000
+it1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|14.000000|1.000000
+it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|524.000000|19.000000
+it1,it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|1.000000
+it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|144.000000|58.000000
+it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|1.000000
+cn1,cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|10.000000|1.000000
+cn1,cn2,it1,it2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|4.000000|1.000000
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,kt1,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|19.000000|51.000000
+cn1,cn2,it1,it2,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|19.000000|1.000000
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,t1,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,it1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,it1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|19.000000|2.000000
+cn1,it1,it2,kt1,kt2,lt,mc1,mi_idx1,mi_idx2,ml,t1,t2,|1.000000|1.000000
+cn1,cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t2,|NO MATCH
+cn1,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|147.000000
+cn1,cn2,it1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|8.000000|1.000000
+cn1,cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|4.000000|3.000000
+cn1,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|8.000000|4.000000
+cn1,cn2,it1,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|39.000000|103.000000
+cn1,cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+cn1,cn2,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+cn1,cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|24.000000|13.000000
+cn1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+cn1,cn2,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|57.000000|5.000000
+cn1,cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|14.000000|8.000000
+cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|14.000000|1.000000
+cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|524.000000|19.000000
+cn2,it1,it2,kt1,kt2,lt,mc2,mi_idx1,mi_idx2,ml,t1,t2,|6.000000|1.000000
+cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|42.000000|1.000000
+cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|144.000000|58.000000
+cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|14.000000|1.000000
+cn1,cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,|NO MATCH
+cn1,cn2,it1,it2,kt1,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,cn2,it1,it2,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t2,|NO MATCH
+cn1,cn2,it1,it2,kt1,kt2,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|19.000000|2.000000
+cn1,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000
+cn1,cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,ml,t1,t2,|NO MATCH
+cn1,cn2,it1,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|8.000000|4.000000
+cn1,cn2,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|12.000000|1.000000
+cn1,cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx2,ml,t1,t2,|NO MATCH
+cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|14.000000|1.000000
+cn1,cn2,it1,it2,kt1,kt2,lt,mc1,mc2,mi_idx1,mi_idx2,ml,t1,t2,|4.000000|1.000000

@@ -1,0 +1,14 @@
+ct,mc,:1334832
+mc,t,:2609077
+ct,mc,t,:1334832
+mi_idx,t,:1380035
+mc,mi_idx,:7994907
+ct,mc,mi_idx,:4086636
+mc,mi_idx,t,:7994907
+ct,mc,mi_idx,t,:4086636
+it,mi_idx,:10
+it,mi_idx,t,:10
+it,mc,mi_idx,:289
+ct,it,mc,mi_idx,:94
+it,mc,mi_idx,t,:289
+ct,it,mc,mi_idx,t,:94

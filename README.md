@@ -19,8 +19,9 @@ We provide python scripts to replicate -
     a) Indexed/ non-indexed.\
     b) Join operator selection.\
     c) Estimate selection.\
-    d) Number of threads. 
-
+    d) Number of threads. \
+    
+usages of this scripts can be found here [attach link]
 
 ## 3. Dataset and Queries
 ### 3.1 Internet Movie Data Base (IMDB)

@@ -1,0 +1,14 @@
+it,mi_idx,:84.000000
+k,mk,:438.000000
+mi_idx,mk,:90192.000000
+mi_idx,t,:1464.000000
+mk,t,:697897.000000
+it,mi_idx,mk,:2900.000000
+it,mi_idx,t,:47.000000
+k,mi_idx,mk,:258.000000
+k,mk,t,:1998.000000
+mi_idx,mk,t,:20296.000000
+it,k,mi_idx,mk,:1.000000
+it,mi_idx,mk,t,:931.000000
+k,mi_idx,mk,t,:47.000000
+it,k,mi_idx,mk,t,:3.000000

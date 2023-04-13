@@ -1,0 +1,14 @@
+mi_idx,t,:159460
+it,mi_idx,:352990
+it,mi_idx,t,:106021
+mk,t,:1253091
+k,mk,:12951
+k,mk,t,:2235
+mi_idx,mk,:3963243
+mi_idx,mk,t,:967981
+it,mi_idx,mk,:2881657
+it,mi_idx,mk,t,:697651
+k,mi_idx,mk,:8433
+k,mi_idx,mk,t,:1143
+it,k,mi_idx,mk,:5820
+it,k,mi_idx,mk,t,:740

@@ -1,0 +1,14 @@
+mi_idx,t,:1992.09
+it,mi_idx,:970.001
+it,mi_idx,t,:872.722
+mk,t,:2663380.0
+k,mk,:16429.1
+k,mk,t,:51652.9
+mi_idx,mk,:9353.66
+mi_idx,mk,t,:177449.0
+it,mi_idx,mk,:5278.64
+it,mi_idx,mk,t,:97148.2
+k,mi_idx,mk,:2159.55
+k,mi_idx,mk,t,:26169.4
+it,k,mi_idx,mk,:550.022
+it,k,mi_idx,mk,t,:4466.72

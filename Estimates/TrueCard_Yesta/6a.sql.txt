@@ -1,0 +1,14 @@
+k,mk,:14
+n,ci,:486
+t,n,ci,:61
+mk,t,n,ci,:1194
+mk,t,ci,:17278181
+k,mk,n,ci,:6
+mk,t,:299534
+t,ci,:5935230
+mk,ci,:215765477
+k,mk,t,:11
+k,mk,ci,:1242
+k,mk,t,ci,:1224
+k,mk,t,n,ci,:6
+mk,n,ci,:10066

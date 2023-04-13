@@ -1,0 +1,14 @@
+ct,mc,:800
+mc,t,:29246
+ct,mc,t,:84
+mi,t,:82357
+mc,mi,:342261
+ct,mc,mi,:687
+mc,mi,t,:21000
+ct,mc,mi,t,:78
+it,mi,:552784
+it,mi,t,:82357
+it,mc,mi,:342261
+ct,it,mc,mi,:687
+it,mc,mi,t,:21000
+ct,it,mc,mi,t,:78

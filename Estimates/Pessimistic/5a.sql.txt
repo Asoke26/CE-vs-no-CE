@@ -1,0 +1,14 @@
+ct,mc,:0
+mc,t,:24025
+ct,mc,t,:0
+mi,t,:153919
+mc,mi,:59682
+ct,mc,mi,:0
+mc,mi,t,:59682
+ct,mc,mi,t,:0
+it,mi,:153919
+it,mi,t,:153919
+it,mc,mi,:59682
+ct,it,mc,mi,:0
+it,mc,mi,t,:59682
+ct,it,mc,mi,t,:0
