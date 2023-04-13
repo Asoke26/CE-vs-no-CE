@@ -39,13 +39,13 @@ _index = index availability (True/ False)
 _threads = number of threads (0 - 4)
 
 Functions : 
-# To collect cost
+# cost
 def runQueriesCost(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _estFlag, _estFolder, _db, _inFolder, _index, _threads)
 
-# To collect runtime
+# runtime
 def runQueriesTime(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _estFlag, _estFolder, _db, _inFolder, _index, _threads)
 
-# To collect runtime and cost
+# runtime and cost
 def runQueriesCostTime(_fromLimit, _joinLimit, _nlFlag, _hjFlag, _mjFlag, _timeOut, _estFlag, _estFolder, _db, _inFolder, _index, _threads)
 ```
 
