@@ -186,7 +186,7 @@ def plan_validation(plan,complete_join_graph):
 
 
 
-PATH = "/home/postgres/Simpli2-EXP-new/Queries/implicit/"
+PATH = "Queries/implicit/"
 files = [     
          '1a','1b','1c','1d','2a','2b','2c','2d','3a','3b','3c','4a','4b','4c','5a','5b','5c','6a','6b','6c','6d','6e','6f', \
          '7a','7b','7c','8a','8b','8c','8d','9a','9b','9c','9d','10a','10b','10c','11a','11b','11c','11d','12a','12b','12c', \

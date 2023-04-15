@@ -10,7 +10,7 @@ import psycopg2
 
 # qry_reader reads a query and runturs selection conditions
 def qry_reader_select(file):
-  PATH = "/home/postgres/Simpli2-EXP-new/Queries/implicit/"
+  PATH = "Queries/implicit/"
   query = open(PATH+file+".sql",'r').read()
   AS_MAPPING = dict()
   FROM = query.split("WHERE")[0].split("FROM")[1]
@@ -74,7 +74,7 @@ def qry_reader_select(file):
 
 # qry_reader reads a query and runturs selection conditions, as, join conditions
 def qry_reader_all(file):
-	PATH = "/home/postgres/Simpli2-EXP-new/Queries/implicit/"
+	PATH = "Queries/implicit/"
 	query = open(PATH+file+".sql",'r').read()
 	AS_MAPPING = dict()
 	FROM = query.split("WHERE")[0].split("FROM")[1]
@@ -493,7 +493,7 @@ def build_subquery(_tbls,sub_no,AS_MAPPING,SELECT_MAPPING,JOIN_MAPPING):
 
 
 def subQry_loader(_qry):
-  path = "/home/postgres/Simpli2-EXP-new/Estimates/TrueCard_1/"
+  path = "Estimates/TrueCard/"
   query = open(path + _qry + '.sql.txt', 'r').readlines()
   subQryDict = {}
 
@@ -507,7 +507,7 @@ def subQry_loader(_qry):
   
 # Load all two way cardinality from file
 def loadCard(_qry):
-  path = "/home/postgres/Simpli2-EXP-new/Estimates/TrueCard/"
+  path = "Estimates/TrueCard/"
   query = open(path + _qry + '.sql.txt', 'r').readlines()
   cardDict = {}
 

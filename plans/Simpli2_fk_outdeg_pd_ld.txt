@@ -1,0 +1,113 @@
+1a : mc ct t mi_idx it
+1b : mi_idx it t mc ct
+1c : mc ct t mi_idx it
+1d : mi_idx it t mc ct
+2a : mc cn t mk k
+2b : mc cn t mk k
+2c : mc cn t mk k
+2d : mc cn t mk k
+3a : mi t mk k
+3b : mi t mk k
+3c : mi t mk k
+4a : mi_idx it t mk k
+4b : mi_idx it t mk k
+4c : mi_idx it t mk k
+5a : mi it t mc ct
+5b : mc ct t mi it
+5c : mc ct t mi it
+6a : mk k t ci n
+6b : mk k t ci n
+6c : mk k t ci n
+6d : mk k t ci n
+6e : mk k t ci n
+6f : mk k t ci n
+7a : pi it n an ci t ml lt
+7b : pi it n an ci t ml lt
+7c : ml lt t ci n pi it an 
+8a : ci rt n1 t mc cn an1 
+8b : mc t cn ci rt n an 
+8c : a1 n1 ci rt t mc cn
+8d : an1 n1 ci rt t mc cn
+9a : ci rt n t chn mc cn an 
+9b : ci rt n t chn mc cn an 
+9c : ci rt n t chn an mc cn
+9d : ci rt n t chn an mc cn
+10a : ci rt t chn mc ct cn
+10b : mc ct cn t ci rt chn
+10c : ci rt t chn mc ct cn
+11a : ml lt t mc ct cn mk k
+11b : ml lt t mc ct cn mk k
+11c : ml lt t mc ct cn mk k
+11d : ml lt t mc ct cn mk k
+12a : mi_idx it2 t mi it1 mc ct cn
+12b : mc ct t cn mi_idx it2 mi it1
+12c : mi_idx it2 t mi it1 mc ct cn
+13a : mc ct cn t kt miidx it mi it2
+13b : mc ct t kt cn miidx it mi it2
+13c : mc ct t kt cn miidx it mi it2
+13d : mc ct cn t kt miidx it mi it2
+14a : mi it1 t kt mi_idx it2 mk k
+14b : mi_idx it2 t kt mi it1 mk k
+14c : mi it1 t kt mi_idx it2 mk k
+15a : mi it1 t mc ct cn att mk k
+15b : mi it1 t mc cn ct att mk k
+15c : mi it1 t att mc ct cn mk k
+15d : mi it1 t att mc ct cn mk k
+16a : mc t cn mk k ci n an 
+16b : mc cn t mk k ci n an 
+16c : mc cn t mk k ci n an 
+16d : mc cn t mk k ci n an 
+17a : mc cn t mk k ci n
+17b : mc cn t mk k ci n
+17c : mc cn t mk k ci n
+17d : mc cn t mk k ci n
+17e : mc cn t mk k ci n
+17f : mc cn t mk k ci n
+18a : mi_idx it2 t ci n mi it1
+18b : mi_idx it2 t mi it1 ci n
+18c : mi it1 t ci n mi_idx it2
+19a : ci rt n t chn mi it mc cn an 
+19b : mi it t ci rt n chn mc cn an 
+19c : ci rt n t chn mi it mc cn an 
+19d : ci rt n t chn mc cn an mi it
+20a : cc cct1 cct2 t kt mk k ci chn n
+20b : cc cct1 cct2 t kt mk k ci n chn
+20c : cc cct1 cct2 t kt mk k ci chn n
+21a : ml lt t mi mc ct cn mk k
+21b : ml lt t mi mc ct cn mk k
+21c : ml lt t mc ct cn mi mk k
+22a : mc ct cn t kt mi it1 mi_idx it2 mk k
+22b : mc ct cn t kt mi it1 mi_idx it2 mk k
+22c : mc ct cn t kt mi it1 mi_idx it2 mk k
+22d : mi it1 t kt mc ct cn mi_idx it2 mk k
+23a : mi it1 t kt cc cct1 mc ct cn mk k
+23b : mi it1 t kt cc cct1 mc ct cn mk k
+23c : mi it1 t kt cc cct1 mc ct cn mk k
+24a : ci rt n t chn mi it mc cn mk k an 
+24b : ci rt t n chn mi it mc cn mk k an 
+25a : mi it1 t ci n mi_idx it2 mk k
+25b : mi it1 t ci n mi_idx it2 mk k
+25c : mi it1 t ci n mi_idx it2 mk k
+26a : cc cct1 cct2 t kt mi_idx it2 mk k ci chn n
+26b : mi_idx it2 t kt cc cct1 cct2 mk k ci chn n
+26c : cc cct1 cct2 t kt mi_idx it2 mk k ci chn n
+27a : ml lt t cc cct2 cct1 mi mc ct cn mk k
+27b : ml lt t cc cct2 cct1 mi mc ct cn mk k
+27c : ml lt t cc cct1 cct2 mc ct cn mi mk k
+28a : cc cct1 cct2 t kt mc ct cn mi it1 mi_idx it2 mk k
+28b : cc cct1 cct2 t kt mi it1 mc ct cn mi_idx it2 mk k
+28c : cc cct1 cct2 t kt mc ct cn mi it1 mi_idx it2 mk k
+29a : ci rt chn t n cc cct1 cct2 mi it mc cn mk k an pi it3
+29b : ci rt chn t n cc cct1 cct2 mi it mc cn mk k an pi it3
+29c : ci rt n t chn cc cct1 cct2 mi it mc cn mk k an pi it3
+30a : cc cct2 cct1 t mi it1 ci n mi_idx it2 mk k
+30b : cc cct2 cct1 t mi it1 ci n mi_idx it2 mk k
+30c : cc cct1 cct2 t mi it1 ci n mi_idx it2 mk k
+31a : mi it1 t ci n mi_idx it2 mc cn mk k
+31b : mc cn t mi it1 ci n mi_idx it2 mk k
+31c : mi it1 t ci n mi_idx it2 mc cn mk k
+32a : mk k t1 ml lt t2
+32b : mk k t1 ml lt t2
+33a : ml lt t2 kt2 t1 kt1 mi_idx2 it2 mi_idx1 it1 mc2 cn2 mc1 cn1
+33b : ml lt t2 kt2 t1 kt1 mi_idx2 it2 mi_idx1 it1 mc2 cn2 mc1 cn1
+33c : ml lt t2 kt2 t1 kt1 mi_idx2 it2 mi_idx1 it1 mc2 cn2 mc1 cn1

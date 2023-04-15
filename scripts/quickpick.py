@@ -2,9 +2,9 @@ import sys,os
 import random
 from datetime import datetime
 
-QUERY_PATH = "/home/postgres/Simpli2-EXP-new/Queries/implicit/"
+QUERY_PATH = "Queries/implicit/"
 
-files = ['13d']
+files = ['6a']
 
 def Random_Generate(_no_of_edges):
 	random.seed(None)
@@ -26,7 +26,7 @@ def get_explain(_query) :
 
 	connection.close()
 
-wF = open("/home/postgres/Simpli2-EXP-new/plans/13d.txt", 'w')
+wF = open("plans/6a.txt", 'w')
 for file in files:
 	print("####################### Query # ",file," ########################################")
 
