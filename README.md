@@ -19,7 +19,7 @@ We used the Internet Movie Data Base (IMDB) dataset. The original data is public
 Our experiments used Join Order Benchmark (JOB) queries. JOB includes 113 queries in total, comprising 33 query families with equijoins. The queries within each family differ only in selection predicates. The join sizes range from 2 to 17, join predicates from 4 to 28, and tables from 2 to 17.
 
 ## 3. PostgreSQL
-We employed a modified version of PostgreSQL 14.2 that allows injecting estimates for subqueries during query runtime [[2](https://github.com/waltercai/pqo-opensource)]. To optimize PostgreSQL performance, we made the following changes:
+We employed a modified version of PostgreSQL 14.2(https://github.com/waltercai/pqo-opensource) that allows injecting estimates for subqueries during query runtime [[2](https://github.com/waltercai/pqo-opensource)]. To optimize PostgreSQL performance, we made the following changes:
 
 ```
 shared_buffers = 128GB
