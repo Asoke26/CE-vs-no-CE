@@ -1,4 +1,4 @@
-# CE-vs-no-CE
+# Good Plans Despite Bad/No Cardinalities?
 
 ## 1. Experimental Setup
 
