@@ -1,4 +1,4 @@
-# Good Plans Despite Bad/No Cardinalities?
+# Analyzing the Impact of Cardinality Estimates on Query Optimization
 
 ## 1. Experimental Setup
 
